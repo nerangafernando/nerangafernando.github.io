@@ -194,12 +194,30 @@ The asterisk denotes an undergraduate student.
 1. Finite Mathematics MGF 1106 (Instructor of Record) - Fall 2011 and Fall 2012
 2. Engineering Calculus 1 MAC 2281 (Instructor of Record) - Fall 2010
 
+
+## Mathematics Honors Thesis Supervision
+
+### College of the Holy Cross, Worcester, MA
+
+#### Student: Zhaoqi (Zack) Wu
+#### Thesis Title: A Study of Knots and Quandles (Fall 2024 & Spring 2025)
+
+Zack successfully defended his thesis on May 7, 2025.  
+
+He also presented sections 9, 10 & 11 of his thesis, which contain original results, at an undergraduate math conference at Union College in Schenectady in New York on April 5, 2025. 
+
+Zack's honors thesis can be accessed through the following link: 
+
+https://crossworks.holycross.edu/math_honor/64/ 
+
+##### Current Position: Graduate student at the University of Pennsylvania
+
                   
 ## Undergraduate Research Supervision 
       
    If you are interested in working on a research project with me, please send me an email or stop by my office so we can have a chat. 
 
-#### Knox College, Galesburg, IL
+### Knox College, Galesburg, IL
 
 1. Sy Quoc Uy Vo (Herry) (current student)\
 Research Topic: Classifying self-reciprocal polynomials from Dickson polynomials (number theory, combinatorics)
@@ -214,7 +232,7 @@ Research Topic: Intergenerational mobility (mathematics, economics)
 results at an undergraduate mathematics conference at Rose-Hulman Institute of Technology in Terre Haute, Indiana on March 28, 2026.
               
       
-#### College of the Holy Cross, Worcester 
+### College of the Holy Cross, Worcester 
         
 1. Zhiyan (Jack) Jiang (current student) \
    Research Topic: A study of polynomials defined by functional equations and their applications in cryptography
@@ -239,12 +257,126 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
 12. Melanie Lytle
    Research Topic: Dickson polynomials and self-reciprocal polynomials
 
-### William Lowell Putnam Mathematical Competition -
+<code style="color: blue"> Spring 2025 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
+
+#### Research Associates: Qinjian (Jeston) Jiang
+
+#### Topics investigated: 
+     * Permutation polynomials defined by functional equations over finite rings. 
+
+#### Dissemination of Results:
+    Jeston presented the results of his research project at 
+    1. An undergraduate math conference at Union College on April 5, 2025, and 
+    2. Academic Conference at College of the Holy Cross, April 23, 2025. 
+
+<code style="color: red"> Fall 2024 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
+
+#### Research Associates:Sean Baker, Zhaoqi (Zack) Wu , Zhiyan (Jack) Jiang
+
+##### Topics investigated:
+    * Quandle rings and shelf rings
+    * Grobner bases and their applications in Quandle rings  
+	* Self-reciprocal polynomials and Dickson polynomials of the (k+1)-th kind
+    * Complete permutation polynomials defined by functional equations and their applications in Cryptography
+
+#### Dissemination of Results:
+Sean, Zack and Jack presented their research results at a student research seminar in the Department of Mathematics and Computer Science at College of the Holy Cross in Fall 2024 and Spring 2025. 
+
+Zack and Jack also presented their research results at  
+* An undergraduate math conference at Smith College on September 21, 2024, and 
+* Academic Conference at College of the Holy Cross on April 23, 2025. 
+
+<code style="color: red"> Weiss Summer Science Research Program from June 3, 2024 to July 26, 2024 at College of the Holy Cross </code>
+
+#### Students supervised: Zhaoqi (Zack) Wu, Zhiyan (Jack) Jiang, Sean Baker
+
+#### Topics Investigated:
+* Quandles, racks and shelves
+* Polynomials defined by functional equations and their applications in cryptography
+* Self-reciprocal polynomials from Dickson polynomials and their applications in coding theory
+
+Sean, Zack and Jack presented their research results at the Weiss Summer Research Symposium at College of the Holy Cross, which was held on September 6, 2024. Their posters can be accessed via the following links: 
+* https://mathcs.holycross.edu/~nfernand/Posters/Sean.pdf
+* https://mathcs.holycross.edu/~nfernand/Posters/Zack.pdf
+* https://mathcs.holycross.edu/~nfernand/Posters/Jack.pdf
+
+<code style="color: red"> Fall 2023 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
+
+#### Research Associates: Jiaqi Fang, Haoming Wu 
+
+#### Topics Investigated:
+* The interplay between quandles and codes.
+*  Self-reciprocal polynomials and their applications in coding theory. 
+
+<code style="color: red"> Weiss Summer Science Research Program from June 5, 2023 to July 28, 2023 at College of the Holy Cross </code> 
+
+#### Students supervised: Jiaqi Fang, Haoming Wu 
+
+#### Topics Investigated in the Weiss Research Program:
+* Cycle types of reversed Dickson permutation polynomials.
+* Complete permutation polynomials arising from reversed Dickson polynomials.
+* Quandles, shelves, racks.
+* Partially ordered Sets.
+* Lotka-Volterra equations
+* Operations research.
+
+#### Research Articles: 
+Jiaqi Fang, Neranga Fernando, Haoming Wu, <b> Reversed Dickson polynomials </b>, Involve, a Journal of Mathematics 18-2 (2025), 297 – 328
+
+#### Dissemination of Results:
+Jiaqi and Haoming presented their research results of the Weiss Program at 
+* Weiss Summer Research Symposium at College of the Holy Cross, September 8, 2023, 
+* AMS sectional meeting at the University of South Alabama, October 13 -- 15, 2023, and
+* Academic Conference at College of the Holy Cross, April 24, 2024. 
+
+The posters of Jiaqi and Haoming presented at the Weiss Summer Research Symposium can be accessed through the following links: 
+* https://mathcs.holycross.edu/~nfernand/Posters/Jiaqi.pdf
+* https://mathcs.holycross.edu/~nfernand/Posters/Ming.pdf
+
+
+### Northeastern University, Boston, MA
+
+* Noah Lichtblau
+  Research Topic: Fibonacci Numbers and Zumkeller Numbers.
+
+* Walker Miller-Breetz
+  Research Topic: Polynomial g_{n,q}.  
+
+* Jackson Steilberg
+  Research Topic: Functional Graphs.
+
+* Yuval Timen
+  Research Topic: Permutation polynomials over finite fields arising from Lucas polynomials.  
+
+* Aliya Tyshkanbayeva
+  Research Topic: Permutation polynomials over finite fields arising from Lucas polynomials.  
+
+* Mohammad Rashid 
+  Research Topic: Permutation polynomials over finite fields, self-reciprocal polynomials.
+
+#### Research Article:
+  N. Fernando, M. Rashid, <b> Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> arXiv:1712.07723. 
+
+* Honors Project: Siddhartha Pant
+  Research Topic: Dickson polynomials over finite fields. 
+
+* Luke Kyungmin Shin
+  Research Topic: Permutation polynomials over finite fields.  
+
+### University of South Florida, Tampa, FL
+
+I was the mathematics advisor for two undergraduate projects in Engineering Calculus at the University of South Florida. 
+
+* Projectile Motion of Missiles
+* Tangencies of the Efficient Frontier and Individual Utility
+
+
+## William Lowell Putnam Mathematical Competition -
 
 * Prepared math majors at Knox College for the Putnam Competition which was held in December, 2025.
 * Co-organized help sessions at the College of the Holy Cross for the Putnam Competition which was held in December, 2024.
 
-### Journal Referee 
+## Journal Referee 
 
 1. Proceedings of the London Mathematical Society 
 
@@ -284,7 +416,7 @@ I have been a reviewer for Zentralblatt MATH since 2017.
 
 I have been a reviewer for Mathematical Reviews since 2017.
 
-### Professional Memberships -
+## Professional Memberships -
 
 * American Mathematical Society
 
@@ -293,7 +425,7 @@ I have been a reviewer for Mathematical Reviews since 2017.
 * London Mathematical Society 
 
 
-### Non-academic Interests -
+## Non-academic Interests -
 
 * Music
 * Racquetball
