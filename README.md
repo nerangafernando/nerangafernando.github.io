@@ -69,17 +69,22 @@ Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA)
 The asterisk denotes an undergraduate student.                 
 
 
-## Research Interests	
+## Research Interests
+
 #### 1. Finite Fields and Their Applications
      Permutation polynomials over finite fields 
      Self-reciprocal polynomials and their applications in  coding theory. 
      Complete mappings over finite fields and their applications in cryptography. 
      Irreducible polynomials over finite fields
      Dickson polynomials, reversed Dickson polynomials, and polynomials defined by functional equations over finite fields.
+	 
 #### 2. Quandle Theory
-	 Quandles, racks, shelves, and their applications in knot theory.              
+	 Quandles, racks, shelves, and their applications in knot theory.   
+	 
 #### 3. Quandle Rings and Their Applications in Knot Theory
+
 #### 4. Computational Number Theory 
+
 #### 5. Experimental Mathematics
              
 
