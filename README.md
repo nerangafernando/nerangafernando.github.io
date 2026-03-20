@@ -353,9 +353,7 @@ The posters of Jiaqi and Haoming presented at the Weiss Summer Research Symposiu
 
 * Mohammad Rashid 
   Research Topic: Permutation polynomials over finite fields, self-reciprocal polynomials.
-
-#### Research Article:
-  N. Fernando, M. Rashid, <b> Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> arXiv:1712.07723. 
+  <b> Research Article:</b> N. Fernando, M. Rashid, <b> Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> arXiv:1712.07723. 
 
 * Honors Project: Siddhartha Pant
   Research Topic: Dickson polynomials over finite fields. 
