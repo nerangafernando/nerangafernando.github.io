@@ -271,7 +271,7 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
 
 <code style="color: blue"> Fall 2024 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
 
-#### Research Associates:Sean Baker, Zhaoqi (Zack) Wu , Zhiyan (Jack) Jiang
+#### Research Associates: Sean Baker, Zhaoqi (Zack) Wu , Zhiyan (Jack) Jiang
 
 ##### Topics investigated:
     * Quandle rings and shelf rings
