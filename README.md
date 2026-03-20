@@ -1,12 +1,12 @@
 # Neranga Fernando
      
-		Department of Mathematics 
-        Knox College 
-        2 E South St 
-        Galesburg, IL 61401 
-        United States
-		Email: neranga AT knox DOT edu
-		Office Phone: 309-341-7520 
+Department of Mathematics \
+Knox College \
+2 E South St \
+Galesburg, IL 61401 \
+United States\
+Email: neranga AT knox DOT edu\
+Office Phone: 309-341-7520 
 		   
 I am a Visiting Assistant Professor in the Department of Mathematics  at <a href="https://www.knox.edu"> Knox College </a> in Galesburg, Illinois. 
 
