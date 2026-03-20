@@ -336,29 +336,29 @@ The posters of Jiaqi and Haoming presented at the Weiss Summer Research Symposiu
 
 ### Northeastern University, Boston, MA
 
-* Noah Lichtblau
+* Noah Lichtblau\
   Research Topic: Fibonacci Numbers and Zumkeller Numbers.
 
-* Walker Miller-Breetz
+* Walker Miller-Breetz\
   Research Topic: Polynomial g_{n,q}.  
 
-* Jackson Steilberg
+* Jackson Steilberg\
   Research Topic: Functional Graphs.
 
-* Yuval Timen
+* Yuval Timen\
   Research Topic: Permutation polynomials over finite fields arising from Lucas polynomials.  
 
-* Aliya Tyshkanbayeva
+* Aliya Tyshkanbayeva\
   Research Topic: Permutation polynomials over finite fields arising from Lucas polynomials.  
 
-* Mohammad Rashid 
-  Research Topic: Permutation polynomials over finite fields, self-reciprocal polynomials.
-  <b> Research Article:</b> N. Fernando, M. Rashid, <b> Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> arXiv:1712.07723. 
+* Mohammad Rashid \
+  Research Topic: Permutation polynomials over finite fields, self-reciprocal polynomials.\
+  Research Article: N. Fernando, M. Rashid, <b> Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> arXiv:1712.07723. 
 
-* Honors Project: Siddhartha Pant
+* Honors Project: Siddhartha Pant\
   Research Topic: Dickson polynomials over finite fields. 
 
-* Luke Kyungmin Shin
+* Luke Kyungmin Shin\
   Research Topic: Permutation polynomials over finite fields.  
 
 ### University of South Florida, Tampa, FL
