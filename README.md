@@ -269,7 +269,7 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
     1. An undergraduate math conference at Union College on April 5, 2025, and 
     2. Academic Conference at College of the Holy Cross, April 23, 2025. 
 
-<code style="color: red"> Fall 2024 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
+<code style="color: blue"> Fall 2024 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
 
 #### Research Associates:Sean Baker, Zhaoqi (Zack) Wu , Zhiyan (Jack) Jiang
 
@@ -286,7 +286,7 @@ Zack and Jack also presented their research results at
 * An undergraduate math conference at Smith College on September 21, 2024, and 
 * Academic Conference at College of the Holy Cross on April 23, 2025. 
 
-<code style="color: red"> Weiss Summer Science Research Program from June 3, 2024 to July 26, 2024 at College of the Holy Cross </code>
+<code style="color: blue"> Weiss Summer Science Research Program from June 3, 2024 to July 26, 2024 at College of the Holy Cross </code>
 
 #### Students supervised: Zhaoqi (Zack) Wu, Zhiyan (Jack) Jiang, Sean Baker
 
@@ -300,7 +300,7 @@ Sean, Zack and Jack presented their research results at the Weiss Summer Researc
 * https://mathcs.holycross.edu/~nfernand/Posters/Zack.pdf
 * https://mathcs.holycross.edu/~nfernand/Posters/Jack.pdf
 
-<code style="color: red"> Fall 2023 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
+<code style="color: blue"> Fall 2023 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
 
 #### Research Associates: Jiaqi Fang, Haoming Wu 
 
@@ -308,7 +308,7 @@ Sean, Zack and Jack presented their research results at the Weiss Summer Researc
 * The interplay between quandles and codes.
 *  Self-reciprocal polynomials and their applications in coding theory. 
 
-<code style="color: red"> Weiss Summer Science Research Program from June 5, 2023 to July 28, 2023 at College of the Holy Cross </code> 
+<code style="color: blue"> Weiss Summer Science Research Program from June 5, 2023 to July 28, 2023 at College of the Holy Cross </code> 
 
 #### Students supervised: Jiaqi Fang, Haoming Wu 
 
@@ -367,6 +367,26 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 
 * Projectile Motion of Missiles
 * Tangencies of the Efficient Frontier and Individual Utility
+
+## Professional  Services
+
+* Prepared the Annual Stephens Scholarship Examination in Mathematics at Knox College which will be held in December, 2025.
+  
+* Served as the organizer of student research talks in the Department of Mathematics and Computer Science at College of the Holy Cross in the academic year 2024/2025. 
+
+* Co-organizer of the research talks by math majors at the Academic Conference which will be held at College of the Holy Cross on April 23, 2025. 
+
+* Served as the organizer of the faculty seminar in the Department of Mathematics and Computer Science at College of the Holy Cross in the academic year 2022/2023 (5 talks). https://mathcs.holycross.edu/~nfernand/seminar.html
+
+* Served as the organizer of the faculty seminar in the Department of Mathematics and Computer Science at College of the Holy Cross in the academic year 2023/2024 (8 talks). https://mathcs.holycross.edu/~nfernand/seminar.html
+
+* Served as the Calculus Coordinator in the Department of Mathematics and Computer Science at College of the Holy Cross in the academic year 2023/2024.
+
+* Served as the Library Liaison in the Department of Mathematics and Computer Science at College of the Holy Cross in Spring 2022. 
+
+* Served as the coordinator for Calculus 2, and 3 for Science and Engineering at Northeastern University in Spring 2015 and Summer 1 2015, respectively. 
+
+* Served on the space committee in the Department of Mathematics at Northeastern University in the Academic Year 2018 - 2019. 
 
 
 ## William Lowell Putnam Mathematical Competition -
