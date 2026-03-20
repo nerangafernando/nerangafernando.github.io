@@ -121,6 +121,79 @@ The asterisk denotes an undergraduate student.
 31. <b>(invited)</b> Permutation Polynomials over Finite Fields defined by functional equations, AMS Sectional Meeting, University of South Florida , March 10-11, 2012. 
 32. A Matrix form of the Jacobi-Trudi Identity, Discrete Mathematics Seminar, University of South Florida, February 8, 2010. 
 
+## Teaching Experience 
+
+#### Knox College, Galesburg, IL     
+                                       
+1. Applied Calculus 1 MATH 145
+2. Number Theory MATH 217
+3. Linear Algebra MATH 185
+4. Introductory Statistics STAT 200
+5. Discrete Mathematics MATH 175 (Spring 2026)
+6. Calculus 3 MATH 205 (Spring 2026)
+7. Topics in Combinatorics - Independent Study (Spring 2026)
+8. Topics in Operations Research - Independent Study (Spring 2026)
+                   
+                    
+#### College of the Holy Cross, Worcester, Massachusetts, USA     
+                                                                         
+Here are the courses I have taught at College of the Holy Cross. 
+
+1. Calculus 1 with Fundamentals MATH 133  
+2. Calculus 1 MATH 135 
+3. Calculus 2 MATH 136 
+4. Categorical Data Analysis STAT 232 
+5. Multivariable Calculus MATH 241
+6. Mathematical Structures  MATH 243 
+7. Linear Algebra MATH 244 
+8. Modern Algebra MATH 351
+9. Real Analysis MATH 361 
+10. Probability Theory STAT 375                        
+11. Topics in Coding Theory MATH 400 (Directed Reading)    
+12. Representation Theory MATH 400 (Directed Reading)  
+13. Field and Galois Theory MATH 410 (Directed Project) 
+14. Topics in Finite Fields MATH 410 (Directed Project)   
+15. Polynomials over Finite Fields MATH 410 (Directed Project)                     
+16. Knot Theory and Quandle Theory MATH 495 (Mathematics Honors Thesis) 
+17. Knot Theory and Quandle Theory MATH 496 (Mathematics Honors Thesis) 
+              
+                                                      
+#### Carnegie Mellon University, Pittsburgh, Pennsylvania, USA         
+       
+1. 21-120 Differential and Integral Calculus
+2. 21-259 Calculus in Three Dimensions 
+3. 21-240 Matrix Algebra with Applications 
+           
+               
+#### Northeastern University, Boston, Massachusetts, USA 
+            
+1. Calculus and Differential Equations for Biology II   MATH 1252 
+2. Calculus 1 for Science and Engineering  MATH 1341 (Honors) 
+3. Calculus 1 for Science and Engineering  MATH 1341 
+4. Calculus 2 for Science and Engineering   MATH 1342 
+5. Calculus 3 for Science and Engineering  MATH 2321 (Honors) 
+6. Calculus 3 for Science and Engineering  MATH 2321 
+7. Differential Equations and Linear Algebra for Science and Engineering  MATH 2341 
+8. Discrete Mathematics  MATH 2310 
+9. Linear Algebra  MATH 2331 
+10. Probability and Statistics MATH 3081 
+11. Group Theory  MATH 3175 
+12. Number Theory I MATH 3527 
+13. Combinatorial Mathematics  MATH 3533 
+14. Number Theory II MATH 4527 
+15. Advanced Linear Algebra  MATH 4571 
+16. Topics in Finite Fields  MATH 4993 (Independent Study) 
+17. Dickson Polynomials over Finite Fields  MATH 4970 (Directed Research Study) 
+
+                  
+#### University of South Florida, Tampa, Florida, USA (As a graduate student)
+           
+1. Finite Mathematics MGF 1106 (Instructor of Record) - Fall 2011 and Fall 2012
+2. Engineering Calculus 1 MAC 2281 (Instructor of Record) - Fall 2010
+
+                  
+
+
 	  
     
        
