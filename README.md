@@ -25,18 +25,19 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 ## Publications
 
 1. <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II.</b> Contributions to Discrete Mathematics, Volume 20, Issue 2, 2025, 1 – 29. 		
-2. (with M. Elhamdadi and M. P. Goonewardena) <b> Classification of connected shelves. </b> New Zealand J. Math. 56 (2025), 53 - 68.
+2. (with M. Elhamdadi and M. P. Goonewardena) <b> Classification of connected shelves.</b> New Zealand J. Math. 56 (2025), 53 - 68.
 3. (with J. Fang and H. Wu) <b>  Reversed Dickson polynomials. </b> Involve, a Journal of Mathematics 18-2 (2025), 297 - 328. <a href="https://msp.org/involve/2025/18-2/p06.xhtml">journal </a> <a href="https://arxiv.org/abs/2307.06325">arXiv</a> 
 4. (with S. U. Hasan and M. Pal) <b> Dembowski-Ostrom polynomials and Reversed Dickson polynomials. </b>  Discrete Applied Mathematics (2021) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X21001244">journal </a> <a href="https://arxiv.org/abs/1905.01767">arXiv</a> 
 5. (with M. Elhamdadi and B. Tsvelikhovskiy) <b> Ring theoretic aspects of quandles. </b> Journal of Algebra (2019) <a href="https://www.sciencedirect.com/science/article/pii/S0021869319300948">journal </a> <a href="https://arxiv.org/abs/1805.05908">arXiv</a>
 6. <b> A note on the permutation behaviour of the polynomial g<sub>n,q</sub>. </b> INTEGERS: The Electronic Journal of Combinatorial Number Theory <b>19</b> (2019). <a href="http://math.colgate.edu/~integers/vol19.html">journal</a> <a href="https://arxiv.org/abs/1805.06309">arXiv</a> 
 7. (with S. Manukure) <b> A note on Dickson polynomials of the third kind and Legendre functions. </b> Journal of Inequalities and Special Functions (2019) <a href="http://www.ilirias.com/jiasf/vol_10_issue_1.html"> journal </a> <a href="https://arxiv.org/abs/1604.04682">arXiv</a>
-8. <b> A note on permutation binomials and trinomials over finite fields.  New Zealand J. Math. <b>48</b> (2018), 25-29. <a href="https://nzjmath.org/index.php/NZJMATH/article/view/38">journal</a> <a href="https://arxiv.org/abs/1609.07162">arXiv</a>
-9. (with I. R. Churchill and M. Elhamdadi) The cocycle structure of the Alexander f-quandles on finite fields.</b>  J. Algebra Appl. <b>17</b> (2018) <a href="https://doi.org/10.1142/S0219498818501906">journal</a> <a href="https://arxiv.org/abs/1612.08968">arXiv</a>
-10. Self-reciprocal polynomials and coterm polynomials. Des. Codes Cryptogr. 86 (2018), no. 8, 1707-1726. <a href="https://link.springer.com/article/10.1007/s10623-017-0419-4">journal</a> <a href="https://arxiv.org/abs/1606.07750">arXiv</a>  <br> Note: In Theorem 2.3, it must be ''Let n > 4 be even''. In Theorem 2.6, it must be ''Let n > 5 be odd'' 
-11. Reversed Dickson polynomials of the (k+1)-th kind over finite fields. J. Number Theory <b>172</b> (2017), 234-255.<a href="http://dx.doi.org/10.1016/j.jnt.2016.08.018">journal</a>  <a href="https://arxiv.org/abs/1605.04338">arXiv</a>
-12. Reversed Dickson polynomials of the third kind. In: Gloria Scientiam. University of Kelaniya, Sri Lanka (2017), Chapter 50: 585-598. <a href='Talks/Chapter 50.pdf'>journal</a> <a href="https://arxiv.org/abs/1602.04545">arXiv</a>
-13. (with X. Hou) From r-linearized polynomial equations to r<sup>m</sup>-linearized polynomial equations.</b> Finite Fields Appl. <b>37</b> (2016), 14-27.  <a href="http://dx.doi.org/10.1016/j.ffa.2015.08.003">journal</a>  <a href="https://arxiv.org/abs/1503.03162">arXiv</a>
+8. <b> A note on permutation binomials and trinomials over finite fields.</b>   New Zealand J. Math. <b>48</b> (2018), 25-29. <a href="https://nzjmath.org/index.php/NZJMATH/article/view/38">journal</a> <a href="https://arxiv.org/abs/1609.07162">arXiv</a>
+9. (with I. R. Churchill and M. Elhamdadi) <b> The cocycle structure of the Alexander f-quandles on finite fields.</b>  J. Algebra Appl. <b>17</b> (2018) <a href="https://doi.org/10.1142/S0219498818501906">journal</a> <a href="https://arxiv.org/abs/1612.08968">arXiv</a>
+10. <b> Self-reciprocal polynomials and coterm polynomials.</b> Des. Codes Cryptogr. 86 (2018), no. 8, 1707-1726. <a href="https://link.springer.com/article/10.1007/s10623-017-0419-4">journal</a> <a href="https://arxiv.org/abs/1606.07750">arXiv</a>  <br> Note: In Theorem 2.3, it must be ''Let n > 4 be even''. In Theorem 2.6, it must be ''Let n > 5 be odd'' 
+    
+11. <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields. </b>  J. Number Theory <b>172</b> (2017), 234-255.<a href="http://dx.doi.org/10.1016/j.jnt.2016.08.018">journal</a>  <a href="https://arxiv.org/abs/1605.04338">arXiv</a>
+12. <b>  Reversed Dickson polynomials of the third kind. </b> In: Gloria Scientiam. University of Kelaniya, Sri Lanka (2017), Chapter 50: 585-598. <a href='Talks/Chapter 50.pdf'>journal</a> <a href="https://arxiv.org/abs/1602.04545">arXiv</a>
+13. (with X. Hou) <b>  From r-linearized polynomial equations to r<sup>m</sup>-linearized polynomial equations.</b> Finite Fields Appl. <b>37</b> (2016), 14-27.  <a href="http://dx.doi.org/10.1016/j.ffa.2015.08.003">journal</a>  <a href="https://arxiv.org/abs/1503.03162">arXiv</a>
 14. (with X. Hou and S. D. Lappano) <b> Permutation polynomials over finite fields involving x+x<sup>q</sup>+&hellip;+x<sup>q<sup>a-1</sup></sup>.</b> Discrete Math. <b>315 - 316</b> (2014), 173-184. <a href="http://dx.doi.org/10.1016/j.disc.2013.10.013">journal</a>
 15. (with X. Hou and S. D. Lappano) <b> A new approach to permutation polynomials over finite fields, II.</b> Finite Fields Appl. <b> 22 </b> (2013), 122-158. <a href="http://dx.doi.org/10.1016/j.ffa.2013.01.001">journal</a> <a href="https://arxiv.org/abs/1208.2942">arXiv</a>
 16. (with X. Hou) <b> A piecewise construction of permutation polynomials over finite fields.</b> Finite Fields Appl. <b> 18 </b> (2012), 1184-1194. <a href="http://dx.doi.org/10.1016/j.ffa.2012.08.010">journal</a> 
@@ -67,6 +68,63 @@ Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA)
 			   
 The asterisk denotes an undergraduate student.                 
 
-      
+
+## Research Interests
+		
+### Finite Fields and Their Applications
+    
+	 Permutation polynomials over finite fields 
+     Self-reciprocal polynomials and their applications in  coding theory. 
+     Complete mappings over finite fields and their applications in cryptography. 
+     Irreducible polynomials over finite fields
+     Dickson polynomials, reversed Dickson polynomials, and polynomials defined by functional equations over finite fields.
+
+### Quandle Theory
+
+	 Quandles, racks, shelves, and their applications in knot theory. 
+               
+### Quandle Rings and Their Applications in Knot Theory
+
+### Computational Number Theory 
+
+### Experimental Mathematics
+             
+
+## Talks
+                  
+1. Idempotents in quandle rings, University of Denver, Denver, CO, AMS Sectional Meeting, August 23 - 24, 2025. 
+2. <b>(invited)</b> Reversed Dickson polynomials over finite fields, California Polytechnic, San Luis Obispo, CA, AMS Sectional Meeting, May 3 - 4, 2025.
+3. Permutation polynomials and reversed Dickson polynomials, Rose-Hulman Institute of Technology, Terre Haute, IN, April 25, 2025. 
+4. Idempotents and tripotents in quandle rings, Knots in Washington, George Washington University, December 6 - 8, 2024.
+5. <b>(invited)</b>  Idempotents and tripotents in Quandle Rings, Canadian Mathematical Society Winter Meeting 2024, Vancouver, Canada, November 29 - December 2, 2024.
+6. Idempotents in quandle rings, AMS Sectional Meeting, University of Albany, Albany, New York, NY, October 19 - 20, 2024.
+7. Quandles, racks and shelves, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 22, 2023.
+8. Reversed Dickson polynomials of the (k+1)-th kind over fintie fields, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 20, 2023. 
+9. Reversed Dickson polynomials of the (k+1)-th kind over fintie fields, Canadian Mathematical Society Summer Meeting 2023, Ottawa, Canada, June 4, 2023. 
+10. Classification of connected shelves and their applications to positive knots, Claremont Topology Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 7, 2023. 
+11. <b>(invited)</b> Knots, quandles and shelves, Worcester Polytechnic University, Worcester, MA, February 20, 2022. 
+12. <b>(invited)</b> Quandles, racks and shelves and their applications to positive knots, Purdue University, West Lafayette, IN, February 7, 2023. 
+13. Quandles, racks and shelves, School of Mathematics and Statistics, Carleton University, Ottawa, Canada, October 14, 2022. <a href='Talks/Carleton Abstract.pdf'>Abstract</a> <a href='Talks/Carleton.pdf'>slides</a>
+14. <b>(invited)</b> Self-reciprocal polynomials and reversed Dickson polynomials, Mathematics Colloquium, University of South Florida, Tampa, FL, March 11, 2022.
+15. Self-reciprocal polynomials arising from reversed Dickson polynomials, College of the Holy Cross, Worcester, MA, February 9, 2022. 
+16. Permutation polynomials over finite fields, College of the Holy Cross, Worcester, MA, November 3, 2021. 
+17. Sel-reciprocal polynomials and reversed Dickson polynomials, Rose-Hulman Institute of Technology, Terre Haute, IN, May 6, 2021. <a href='Talks/RHIT.pdf'>slides</a>
+18. Self-reciprocal polynomials and Zumkeller numbers, Amherst College, Amherst, MA, March 4, 2019. 
+19. Fibonacci permutation polynomials, Math Club, California State University, Northridge, CA, March, March 9, 2018. <a href='Talks/CSUN Math Club.pdf'>Abstract</a> (Chalkboard presentation)
+20. Reversed Dickson permutation polynomials, Algebra, Number Theory, and Discrete Mathematics Seminar, California State University, Northridge, CA, March 7, 2018. <a href="https://www.csun.edu/~danielk/seminar/"> Abstract </a> <a href='Talks/CSUN.pdf'>slides</a>
+21. Reversed Dickson permutation polynomials over finite fields, Algebra, Number Theory, and Combinatorics Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 6, 2018. <a href="http://ccms.claremont.edu/ancs-seminar/TBA-187"> Abstract </a> <a href='Talks/CCMS.pdf'>slides</a>
+22. Self-reciprocal polynomials arising from reversed Dickson polynomials, AMS Sectional Meeting, State University of New York at Buffalo, Buffalo, NY, September 16 - 17, 2017. <a href='Talks/Buffalo.pdf'>slides</a>
+23. Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II, AMS Sectional Meeting, University of North Texas, Denton, TX, September 9 - 10, 2017. (Click <a href="http://wcherry.math.unt.edu/denton2017.html"> HERE </a> for further details) <a href='Talks/UNT.pdf'>slides</a>
+24. <b>(invited)</b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, AMS Sectional Meeting, Hunter College, CUNY, New York, NY, May 6 - 7, 2017. <a href='Talks/CUNY.pdf'>slides</a>
+25. A generalization of the reversed Dickson polynomials over finite fields, Discrete Mathematics Seminar, University of South Florida, March 6, 2017. <a href='Talks/USF3.pdf'>slides</a>
+26. <b>(invited)</b> Permutation polynomials, self-reciprocal polynomials, and their role in coding theory, Northeastern University, December 1, 2016. (Chalkboard presentation)
+27. <b>(invited)</b> Reversed Dickson polynomials of the third kind, 47th Southeastern International Conference on Combinatorics, Graph Theory & Computing, March 7-11, 2016. <a href='Talks/FAU.pdf'>slides</a>
+28. <b>(invited)</b> From r-linearized polynomial equations to r<sup>m</sup>-linearized polynomial equations, Fq12: The 12th International Conference on Finite Fields and Their Applications, Saratoga Springs, NY, July 13-17, 2015. <a href='Talks/Fq12.pdf'>slides</a>
+29. New classes of permutation polynomials over finite fields defined by functional equations, Joint Mathematics Meeting , San Diego, Jan 9 - 12, 2013. <a href='Talks/JMM.pdf'>slides</a>
+30. A New Approach to Permutation Polynomials over Finite Fields, Discrete Mathematics Seminar, University of South Florida, November 19, 2012. <a href='Talks/USF2.pdf'>slides</a>
+31. <b>(invited)</b> Permutation Polynomials over Finite Fields defined by functional equations, AMS Sectional Meeting, University of South Florida , March 10-11, 2012. <a href='Talks/USFAMS.pdf'>slides</a>
+32. A Matrix form of the Jacobi-Trudi Identity, Discrete Mathematics Seminar, University of South Florida, February 8, 2010. <a href='Talks/USF1.pdf'>slides</a>
+
+	  
     
        
