@@ -1,7 +1,7 @@
 # Neranga Fernando
      
 Department of Mathematics \
-Knox College \
+Knox College \ 
 2 E South St \
 Galesburg, IL 61401 \    
 United States\
@@ -21,6 +21,23 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 5. Graduate Teaching Assistant, University of South Florida, Tampa, FL, 01/2008 - 05/2013
 6. Teaching Assistant, University of Kelaniya, Kelaniya, Sri Lanka, 05/2007 - 12/2007
 
+## Research Interests
+
+#### 1. Finite Fields and Their Applications
+     - Permutation polynomials over finite fields 
+     - Self-reciprocal polynomials and their applications in  coding theory. 
+     - Complete mappings over finite fields and their applications in cryptography. 
+     - Irreducible polynomials over finite fields
+     - Dickson polynomials, reversed Dickson polynomials, and polynomials defined by functional equations over finite fields.
+	 
+#### 2. Quandle Theory
+	 - Quandles, racks, shelves, and their applications in knot theory.   
+	 
+#### 3. Quandle Rings and Their Applications in Knot Theory
+
+#### 4. Computational Number Theory 
+
+#### 5. Experimental Mathematics
 
 ## Publications
 
@@ -67,26 +84,6 @@ Mohammad H. Rashid<sup>&#42;</sup> (Northeastern University, Boston, USA) \
 Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA) 
 			   
 The asterisk denotes an undergraduate student.                 
-
-
-## Research Interests
-
-#### 1. Finite Fields and Their Applications
-     - Permutation polynomials over finite fields 
-     - Self-reciprocal polynomials and their applications in  coding theory. 
-     - Complete mappings over finite fields and their applications in cryptography. 
-     - Irreducible polynomials over finite fields
-     - Dickson polynomials, reversed Dickson polynomials, and polynomials defined by functional equations over finite fields.
-	 
-#### 2. Quandle Theory
-	 - Quandles, racks, shelves, and their applications in knot theory.   
-	 
-#### 3. Quandle Rings and Their Applications in Knot Theory
-
-#### 4. Computational Number Theory 
-
-#### 5. Experimental Mathematics
-             
 
 ## Talks
 
