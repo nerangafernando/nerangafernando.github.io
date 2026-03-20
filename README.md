@@ -44,12 +44,12 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
                                          
 ## Ph.D. Thesis 
             
-A study of permutation polynomials over finite fields.</b>  Ph.D. Dissertation, University of South Florida, Tampa, FL, USA (2013). <a href="http://scholarcommons.usf.edu/etd/4484/">Ph.D. Thesis</a>
+<b> A study of permutation polynomials over finite fields.</b>  Ph.D. Dissertation, University of South Florida, Tampa, FL, USA (2013). <a href="http://scholarcommons.usf.edu/etd/4484/">Ph.D. Thesis</a>
    			
 ## Unrefereed Publications 
         
-(with M. H. Rashid) Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> <a href="https://arxiv.org/abs/1712.07723">arXiv</a> 
- Dembowski-Ostrom polynomials and reversed Dickson polynomials. <a href="https://arxiv.org/abs/1812.11945">arXiv</a>  
+1. (with M. H. Rashid) <b> Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> <a href="https://arxiv.org/abs/1712.07723">arXiv</a> 
+2. Dembowski-Ostrom polynomials and reversed Dickson polynomials. <a href="https://arxiv.org/abs/1812.11945">arXiv</a>  
    
 ## Coauthors 
 			   
@@ -72,14 +72,14 @@ The asterisk denotes an undergraduate student.
 ## Research Interests
 
 #### 1. Finite Fields and Their Applications
-     Permutation polynomials over finite fields 
-     Self-reciprocal polynomials and their applications in  coding theory. 
-     Complete mappings over finite fields and their applications in cryptography. 
-     Irreducible polynomials over finite fields
-     Dickson polynomials, reversed Dickson polynomials, and polynomials defined by functional equations over finite fields.
+     - Permutation polynomials over finite fields 
+     - Self-reciprocal polynomials and their applications in  coding theory. 
+     - Complete mappings over finite fields and their applications in cryptography. 
+     - Irreducible polynomials over finite fields
+     - Dickson polynomials, reversed Dickson polynomials, and polynomials defined by functional equations over finite fields.
 	 
 #### 2. Quandle Theory
-	 Quandles, racks, shelves, and their applications in knot theory.   
+	 - Quandles, racks, shelves, and their applications in knot theory.   
 	 
 #### 3. Quandle Rings and Their Applications in Knot Theory
 
@@ -140,9 +140,7 @@ The asterisk denotes an undergraduate student.
 8. Topics in Operations Research - Independent Study (Spring 2026)
                    
                     
-#### College of the Holy Cross, Worcester, Massachusetts, USA     
-                                                                         
-Here are the courses I have taught at College of the Holy Cross. 
+#### College of the Holy Cross, Worcester, Massachusetts, USA                                                                             
 
 1. Calculus 1 with Fundamentals MATH 133  
 2. Calculus 1 MATH 135 
@@ -197,8 +195,98 @@ Here are the courses I have taught at College of the Holy Cross.
 2. Engineering Calculus 1 MAC 2281 (Instructor of Record) - Fall 2010
 
                   
+## Undergraduate Research Supervision 
+      
+   If you are interested in working on a research project with me, please send me an email or stop by my office so we can have a chat. 
+
+#### Knox College, Galesburg, IL
+
+1. Sy Quoc Uy Vo (Herry) (current student)\
+Research Topic: Classifying self-reciprocal polynomials from Dickson polynomials (number theory, combinatorics)
+2. Tan Le (current student)\
+Research Topic: Analyzing the distributions of value sets of reversed Dickson polynomials (number theory, data science)
+3. Tam Nguyen (Katie) (current student)\
+Research Topic: Foxes vs Rabbits in Illinois - a predator-prey model (mathematical modeling)
+4. Aaditya Trivedee (current student) \
+Research Topic: Intergenerational mobility (mathematics, economics)
+
+<b> Dissemination of Results:</b> Tan Le, Herry Vo, Katie Nguyen, and Aaditya Trivedee will be presenting their research
+results at an undergraduate mathematics conference at Rose-Hulman Institute of Technology in Terre Haute, Indiana on March 28, 2026.
+              
+      
+#### College of the Holy Cross, Worcester 
+        
+1. Zhiyan (Jack) Jiang (current student) \
+   Research Topic: A study of polynomials defined by functional equations and their applications in cryptography
+2. Zhaoqi (Zack) Wu (High Honors)\
+   Research Topic: Quandles, racks and shelves\
+   Current Position: Graduate Student at the University of Pennsylvania
+4. Qingjian (Jeston) Jiang \
+   Research Topic: Permutation polynomials defined by functional equations over finite rings, cycle types of permutation polynomials over      finite fields\
+   Current Position: Graduate student at the University of Southern California
+5. Sean Baker\
+   Research Topic: Self-reciprocal polynomials from Dickson polynomials and their applications in coding theory
+6. Jiagi Fang  (Honors)\
+   Research Topic: Complete permutation polynomials arising from reversed Dickson polynomials\
+   Current Position: Graduate Student at Columbia University
+8. Ming Wu \
+   Research Topic: Fixed points of reversed Dickson polynomials\
+   Current Position: Graduate Student at Columbia University
+10. Jorge El Khoury \
+   Research Topic: Dickson polynomials and self-reciprocal polynomials
+11. Charlie Briley 
+   Research Topic: Dickson polynomials and self-reciprocal polynomials
+12. Melanie Lytle
+   Research Topic: Dickson polynomials and self-reciprocal polynomials
 
 
+### Journal Referee 
+
+$\bullet$ Proceedings of the London Mathematical Society 
+
+$\bullet$ Journal of Pure and Applied Algebra
+
+$\bullet$ Journal of Number Theory
+
+$\bullet$ Finite Fields and Their Applications 
+
+$\bullet$ Discrete Mathematics
+
+$\bullet$ Journal of Algebra and its Applications 
+
+$\bullet$ Journal of Algebra Combinatorics Discrete Structures and Applications
+
+$\bullet$ FILOMAT
+
+$\bullet$ Mathematica Slovaca
+
+$\bullet$ International Journal of Foundations of Computer Science
+
+$\bullet$ Applicable Algebra in Engineering, Communication, and Computing 
+
+$\bullet$  Cryptography and Communications 
+
+$\bullet$ Algebra Colloquium
+
+$\bullet$ Indagationes Mathematicae 
+
+$\bullet$ Arabian Journal of Mathematics
+
+### Zentralblatt MATH -
+
+I have been a reviewer for Zentralblatt MATH since 2017.
+
+### AMS Math Review -
+
+I have been a reviewer for Mathematical Reviews since 2017.
+
+### Professional Memberships -
+
+$\bullet$ American Mathematical Society
+
+$\bullet$ Canadian Mathematical Society 
+
+$\bullet$ London Mathematical Society 
 	  
     
        
