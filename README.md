@@ -124,6 +124,14 @@ The asterisk denotes an undergraduate student.
 35. A Matrix form of the Jacobi-Trudi Identity, Discrete Mathematics Seminar, University of South Florida, February 8, 2010.
 
 
+## Other Research Related Activities
+
+* A research visit to California State University, August 10 - 16, 2025. Host: Daniel J. Katz
+  
+*  Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, Caltech, Pasadena, CA, July 27 - 31, 2026.
+
+* Organizer of the special session on finite fields and their applications at AMS Sectional Meeting at Boston College, March 28 - 29, 2026.  https://www.ams.org/meetings/sectional/2331_program_ss12.html#title
+ 
 
 ## Teaching Experience 
 
