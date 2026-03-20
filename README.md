@@ -69,25 +69,18 @@ Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA)
 The asterisk denotes an undergraduate student.                 
 
 
-## Research Interests
-		
-### Finite Fields and Their Applications
-    
-	 Permutation polynomials over finite fields 
+## Research Interests	
+#### 1. Finite Fields and Their Applications
+     Permutation polynomials over finite fields 
      Self-reciprocal polynomials and their applications in  coding theory. 
      Complete mappings over finite fields and their applications in cryptography. 
      Irreducible polynomials over finite fields
      Dickson polynomials, reversed Dickson polynomials, and polynomials defined by functional equations over finite fields.
-
-### Quandle Theory
-
-	 Quandles, racks, shelves, and their applications in knot theory. 
-               
-### Quandle Rings and Their Applications in Knot Theory
-
-### Computational Number Theory 
-
-### Experimental Mathematics
+#### 2. Quandle Theory
+	 Quandles, racks, shelves, and their applications in knot theory.              
+#### 3. Quandle Rings and Their Applications in Knot Theory
+#### 4. Computational Number Theory 
+#### 5. Experimental Mathematics
              
 
 ## Talks
@@ -104,26 +97,26 @@ The asterisk denotes an undergraduate student.
 10. Classification of connected shelves and their applications to positive knots, Claremont Topology Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 7, 2023. 
 11. <b>(invited)</b> Knots, quandles and shelves, Worcester Polytechnic University, Worcester, MA, February 20, 2022. 
 12. <b>(invited)</b> Quandles, racks and shelves and their applications to positive knots, Purdue University, West Lafayette, IN, February 7, 2023. 
-13. Quandles, racks and shelves, School of Mathematics and Statistics, Carleton University, Ottawa, Canada, October 14, 2022. <a href='Talks/Carleton Abstract.pdf'>Abstract</a> <a href='Talks/Carleton.pdf'>slides</a>
+13. Quandles, racks and shelves, School of Mathematics and Statistics, Carleton University, Ottawa, Canada, October 14, 2022.
 14. <b>(invited)</b> Self-reciprocal polynomials and reversed Dickson polynomials, Mathematics Colloquium, University of South Florida, Tampa, FL, March 11, 2022.
 15. Self-reciprocal polynomials arising from reversed Dickson polynomials, College of the Holy Cross, Worcester, MA, February 9, 2022. 
 16. Permutation polynomials over finite fields, College of the Holy Cross, Worcester, MA, November 3, 2021. 
 17. Sel-reciprocal polynomials and reversed Dickson polynomials, Rose-Hulman Institute of Technology, Terre Haute, IN, May 6, 2021. <a href='Talks/RHIT.pdf'>slides</a>
 18. Self-reciprocal polynomials and Zumkeller numbers, Amherst College, Amherst, MA, March 4, 2019. 
-19. Fibonacci permutation polynomials, Math Club, California State University, Northridge, CA, March, March 9, 2018. <a href='Talks/CSUN Math Club.pdf'>Abstract</a> (Chalkboard presentation)
-20. Reversed Dickson permutation polynomials, Algebra, Number Theory, and Discrete Mathematics Seminar, California State University, Northridge, CA, March 7, 2018. <a href="https://www.csun.edu/~danielk/seminar/"> Abstract </a> <a href='Talks/CSUN.pdf'>slides</a>
-21. Reversed Dickson permutation polynomials over finite fields, Algebra, Number Theory, and Combinatorics Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 6, 2018. <a href="http://ccms.claremont.edu/ancs-seminar/TBA-187"> Abstract </a> <a href='Talks/CCMS.pdf'>slides</a>
-22. Self-reciprocal polynomials arising from reversed Dickson polynomials, AMS Sectional Meeting, State University of New York at Buffalo, Buffalo, NY, September 16 - 17, 2017. <a href='Talks/Buffalo.pdf'>slides</a>
-23. Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II, AMS Sectional Meeting, University of North Texas, Denton, TX, September 9 - 10, 2017. (Click <a href="http://wcherry.math.unt.edu/denton2017.html"> HERE </a> for further details) <a href='Talks/UNT.pdf'>slides</a>
-24. <b>(invited)</b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, AMS Sectional Meeting, Hunter College, CUNY, New York, NY, May 6 - 7, 2017. <a href='Talks/CUNY.pdf'>slides</a>
-25. A generalization of the reversed Dickson polynomials over finite fields, Discrete Mathematics Seminar, University of South Florida, March 6, 2017. <a href='Talks/USF3.pdf'>slides</a>
+19. Fibonacci permutation polynomials, Math Club, California State University, Northridge, CA, March, March 9, 2018. (Chalkboard presentation)
+20. Reversed Dickson permutation polynomials, Algebra, Number Theory, and Discrete Mathematics Seminar, California State University, Northridge, CA, March 7, 2018. <a href="https://www.csun.edu/~danielk/seminar/"> Abstract </a>
+21. Reversed Dickson permutation polynomials over finite fields, Algebra, Number Theory, and Combinatorics Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 6, 2018. <a href="http://ccms.claremont.edu/ancs-seminar/TBA-187"> Abstract </a> 
+22. Self-reciprocal polynomials arising from reversed Dickson polynomials, AMS Sectional Meeting, State University of New York at Buffalo, Buffalo, NY, September 16 - 17, 2017. 
+23. Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II, AMS Sectional Meeting, University of North Texas, Denton, TX, September 9 - 10, 2017. (Click <a href="http://wcherry.math.unt.edu/denton2017.html"> HERE </a> for further details) 
+24. <b>(invited)</b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, AMS Sectional Meeting, Hunter College, CUNY, New York, NY, May 6 - 7, 2017. 
+25. A generalization of the reversed Dickson polynomials over finite fields, Discrete Mathematics Seminar, University of South Florida, March 6, 2017. 
 26. <b>(invited)</b> Permutation polynomials, self-reciprocal polynomials, and their role in coding theory, Northeastern University, December 1, 2016. (Chalkboard presentation)
-27. <b>(invited)</b> Reversed Dickson polynomials of the third kind, 47th Southeastern International Conference on Combinatorics, Graph Theory & Computing, March 7-11, 2016. <a href='Talks/FAU.pdf'>slides</a>
-28. <b>(invited)</b> From r-linearized polynomial equations to r<sup>m</sup>-linearized polynomial equations, Fq12: The 12th International Conference on Finite Fields and Their Applications, Saratoga Springs, NY, July 13-17, 2015. <a href='Talks/Fq12.pdf'>slides</a>
-29. New classes of permutation polynomials over finite fields defined by functional equations, Joint Mathematics Meeting , San Diego, Jan 9 - 12, 2013. <a href='Talks/JMM.pdf'>slides</a>
-30. A New Approach to Permutation Polynomials over Finite Fields, Discrete Mathematics Seminar, University of South Florida, November 19, 2012. <a href='Talks/USF2.pdf'>slides</a>
-31. <b>(invited)</b> Permutation Polynomials over Finite Fields defined by functional equations, AMS Sectional Meeting, University of South Florida , March 10-11, 2012. <a href='Talks/USFAMS.pdf'>slides</a>
-32. A Matrix form of the Jacobi-Trudi Identity, Discrete Mathematics Seminar, University of South Florida, February 8, 2010. <a href='Talks/USF1.pdf'>slides</a>
+27. <b>(invited)</b> Reversed Dickson polynomials of the third kind, 47th Southeastern International Conference on Combinatorics, Graph Theory & Computing, March 7-11, 2016. 
+28. <b>(invited)</b> From r-linearized polynomial equations to r<sup>m</sup>-linearized polynomial equations, Fq12: The 12th International Conference on Finite Fields and Their Applications, Saratoga Springs, NY, July 13-17, 2015. 
+29. New classes of permutation polynomials over finite fields defined by functional equations, Joint Mathematics Meeting , San Diego, Jan 9 - 12, 2013. 
+30. A New Approach to Permutation Polynomials over Finite Fields, Discrete Mathematics Seminar, University of South Florida, November 19, 2012.
+31. <b>(invited)</b> Permutation Polynomials over Finite Fields defined by functional equations, AMS Sectional Meeting, University of South Florida , March 10-11, 2012. 
+32. A Matrix form of the Jacobi-Trudi Identity, Discrete Mathematics Seminar, University of South Florida, February 8, 2010. 
 
 	  
     
