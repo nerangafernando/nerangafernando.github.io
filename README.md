@@ -5,7 +5,7 @@ Knox College \
 2 E South St \
 Galesburg, IL 61401 \
 United States\
-Email: neranga AT knox DOT edu\
+Email: nfernando AT knox DOT edu\
 Office Phone: 309-341-7520 
 		   
 I am a Visiting Assistant Professor in the Department of Mathematics  at <a href="https://www.knox.edu"> Knox College </a> in Galesburg, Illinois. 
@@ -218,7 +218,7 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
         
 1. Zhiyan (Jack) Jiang (current student) \
    Research Topic: A study of polynomials defined by functional equations and their applications in cryptography
-2. Zhaoqi (Zack) Wu (High Honors)\
+2. Zhaoqi (Zack) Wu (High Honours)\
    Research Topic: Quandles, racks and shelves\
    Current Position: Graduate Student at the University of Pennsylvania
 4. Qingjian (Jeston) Jiang \
@@ -226,7 +226,7 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
    Current Position: Graduate student at the University of Southern California
 5. Sean Baker\
    Research Topic: Self-reciprocal polynomials from Dickson polynomials and their applications in coding theory
-6. Jiagi Fang  (Honors)\
+6. Jiagi Fang  (Honours)\
    Research Topic: Complete permutation polynomials arising from reversed Dickson polynomials\
    Current Position: Graduate Student at Columbia University
 8. Ming Wu \
@@ -239,38 +239,42 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
 12. Melanie Lytle
    Research Topic: Dickson polynomials and self-reciprocal polynomials
 
+### William Lowell Putnam Mathematical Competition -
+
+* Prepared math majors at Knox College for the Putnam Competition which was held in December, 2025.
+* Co-organized help sessions at the College of the Holy Cross for the Putnam Competition which was held in December, 2024.
 
 ### Journal Referee 
 
-$\bullet$ Proceedings of the London Mathematical Society 
+1. Proceedings of the London Mathematical Society 
 
-$\bullet$ Journal of Pure and Applied Algebra
+2. Journal of Pure and Applied Algebra
 
-$\bullet$ Journal of Number Theory
+3. Journal of Number Theory
 
-$\bullet$ Finite Fields and Their Applications 
+4. Finite Fields and Their Applications 
 
-$\bullet$ Discrete Mathematics
+5. Discrete Mathematics
 
-$\bullet$ Journal of Algebra and its Applications 
+6. Journal of Algebra and its Applications 
 
-$\bullet$ Journal of Algebra Combinatorics Discrete Structures and Applications
+7. Journal of Algebra Combinatorics Discrete Structures and Applications
 
-$\bullet$ FILOMAT
+8. FILOMAT
 
-$\bullet$ Mathematica Slovaca
+9. Mathematica Slovaca
 
-$\bullet$ International Journal of Foundations of Computer Science
+10. International Journal of Foundations of Computer Science
 
-$\bullet$ Applicable Algebra in Engineering, Communication, and Computing 
+11. Applicable Algebra in Engineering, Communication, and Computing 
 
-$\bullet$  Cryptography and Communications 
+12. Cryptography and Communications 
 
-$\bullet$ Algebra Colloquium
+13. Algebra Colloquium
 
-$\bullet$ Indagationes Mathematicae 
+14. Indagationes Mathematicae 
 
-$\bullet$ Arabian Journal of Mathematics
+15. Arabian Journal of Mathematics
 
 ### Zentralblatt MATH -
 
@@ -282,11 +286,19 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 ### Professional Memberships -
 
-$\bullet$ American Mathematical Society
+* American Mathematical Society
 
-$\bullet$ Canadian Mathematical Society 
+* Canadian Mathematical Society 
 
-$\bullet$ London Mathematical Society 
-	  
-    
+* London Mathematical Society 
+
+
+### Non-academic Interests -
+
+* Music
+* Racquetball
+* Squash
+* Volleyball
+* Travelling 
+
        
