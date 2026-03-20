@@ -19,10 +19,10 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
           3. Eugene P. Shelly Visiting Assistant Professor, Carnegie Mellon University, Pittsburgh, PA, 08/2019 - 05/2020
           4. Lecturer/ Assistant Teaching Professor, Northeastern University, Boston, MA, 08/2013 - 06/2019
           5. Graduate Teaching Assistant, University of South Florida, Tampa, FL, 01/2008 - 05/2013
-          6. Teaching Assistant, University of Kelaniya, Kelaniya, Sri Lanka, 05/2007 - 12/2007\
+          6. Teaching Assistant, University of Kelaniya, Kelaniya, Sri Lanka, 05/2007 - 12/2007
 
 
-		  Publications\
+## Publications
 		
 1. (with M. Elhamdadi and M. P. Goonewardena) Classification of connected shelves. </b> Accepted in New Zealand Journal of Mathematics <a href="https://doi.org/10.48550/arXiv.2301.12286">arXiv</a> 
 2. Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II.  To appear in Contributions to Discrete Mathematics <a href="https://arxiv.org/abs/1706.01391">arXiv</a> 
@@ -41,16 +41,16 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 15. (with X. Hou and S. D. Lappano) <b> A new approach to permutation polynomials over finite fields, II.</b> Finite Fields Appl. <b> 22 </b> (2013), 122-158. <a href="http://dx.doi.org/10.1016/j.ffa.2013.01.001">journal</a> <a href="https://arxiv.org/abs/1208.2942">arXiv</a>
 16. (with X. Hou) <b> A piecewise construction of permutation polynomials over finite fields.</b> Finite Fields Appl. <b> 18 </b> (2012), 1184-1194. <a href="http://dx.doi.org/10.1016/j.ffa.2012.08.010">journal</a> \
                                          
-# Ph.D. Thesis \
+## Ph.D. Thesis 
             
 A study of permutation polynomials over finite fields.</b>  Ph.D. Dissertation, University of South Florida, Tampa, FL, USA (2013). <a href="http://scholarcommons.usf.edu/etd/4484/">Ph.D. Thesis</a>
    			
-# Unrefereed Publications \
+## Unrefereed Publications 
         
 (with M. H. Rashid) Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> <a href="https://arxiv.org/abs/1712.07723">arXiv</a> 
  Dembowski-Ostrom polynomials and reversed Dickson polynomials. <a href="https://arxiv.org/abs/1812.11945">arXiv</a>  
    
-# Coauthors \
+## Coauthors 
 			   
 <a href="https://scholar.google.com/citations?user=ocpIWKkAAAAJ&hl=en"> Indu Rasika Churchill </a> (SUNY at Oswego, USA)\
 <a href="https://scholar.google.com/citations?user=EKtdfTwAAAAJ&hl=en"> Mohamed Elhamdadi </a> (USF, Tampa, USA) \
