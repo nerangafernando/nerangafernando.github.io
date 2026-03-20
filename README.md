@@ -1,9 +1,9 @@
 # Neranga Fernando
      
 Department of Mathematics \
-Knox College \ 
+Knox College \
 2 E South St \
-Galesburg, IL 61401 \    
+Galesburg, IL 61401\
 United States\
 Email: nfernando AT knox DOT edu\
 Office Phone: 309-341-7520 
