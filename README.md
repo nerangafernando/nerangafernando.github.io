@@ -23,9 +23,9 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 
 
 ## Publications
-		
-1. (with M. Elhamdadi and M. P. Goonewardena) <b> Classification of connected shelves. </b> Accepted in New Zealand Journal of Mathematics <a href="https://doi.org/10.48550/arXiv.2301.12286">arXiv</a> 
-2.<b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II.</b>  To appear in Contributions to Discrete Mathematics <a href="https://arxiv.org/abs/1706.01391">arXiv</a> 
+
+1. <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II.</b> Contributions to Discrete Mathematics, Volume 20, Issue 2, 2025, 1 – 29. 		
+2. (with M. Elhamdadi and M. P. Goonewardena) <b> Classification of connected shelves. </b> New Zealand J. Math. 56 (2025), 53 - 68.
 3. (with J. Fang and H. Wu) <b>  Reversed Dickson polynomials. </b> Involve, a Journal of Mathematics 18-2 (2025), 297 - 328. <a href="https://msp.org/involve/2025/18-2/p06.xhtml">journal </a> <a href="https://arxiv.org/abs/2307.06325">arXiv</a> 
 4. (with S. U. Hasan and M. Pal) <b> Dembowski-Ostrom polynomials and Reversed Dickson polynomials. </b>  Discrete Applied Mathematics (2021) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X21001244">journal </a> <a href="https://arxiv.org/abs/1905.01767">arXiv</a> 
 5. (with M. Elhamdadi and B. Tsvelikhovskiy) <b> Ring theoretic aspects of quandles. </b> Journal of Algebra (2019) <a href="https://www.sciencedirect.com/science/article/pii/S0021869319300948">journal </a> <a href="https://arxiv.org/abs/1805.05908">arXiv</a>
