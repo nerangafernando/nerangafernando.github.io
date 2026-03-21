@@ -35,9 +35,11 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 	 
 #### 3. Quandle Rings and Their Applications in Knot Theory
 
-#### 4. Computational Number Theory 
+#### 4. Elementary Number Theory
 
-#### 5. Experimental Mathematics
+#### 5. Computational Number Theory 
+
+#### 6. Experimental Mathematics
 
 ## Publications
 
@@ -66,7 +68,7 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 ## Unrefereed Publications 
         
 1. (with M. H. Rashid) <b> Fibonacci self-reciprocal polynomials and Fibonacci permutation polynomials. </b> <a href="https://arxiv.org/abs/1712.07723">arXiv</a> 
-2. Dembowski-Ostrom polynomials and reversed Dickson polynomials. <a href="https://arxiv.org/abs/1812.11945">arXiv</a>  
+2. <b> Dembowski-Ostrom polynomials and reversed Dickson polynomials.</b> <a href="https://arxiv.org/abs/1812.11945">arXiv</a>  
    
 ## Coauthors 
 			   
