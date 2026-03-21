@@ -466,7 +466,7 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 ## Awards, Academic Achievements and Scholarships
 
- * First class honors in B.Sc.(special degree) majoring Mathematics, University of Kelaniya, Sri Lanka, 2007
+ * First class honours in B.Sc.(special degree) majoring Mathematics, University of Kelaniya, Sri Lanka, 2007
    
  * Recipient of the Gold medal in Mathematics at the University of Kelaniya, Sri Lanka, 2007
    
