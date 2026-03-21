@@ -371,7 +371,25 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 * Projectile Motion of Missiles
 * Tangencies of the Efficient Frontier and Individual Utility
 
-## Professional  Services
+## Research Grants,Travel Grants and Stipends
+
+ * Research grant from the J.D. Power Center at College of the Holy Cross - Spring 2025
+   
+ * Provost's Supplemental Research Fund, College of the Holy Cross - Fall 2024
+   
+ *  Research grant from the J.D. Power Center at College of the Holy Cross - Fall 2024
+         
+ * Stipend for mentoring three undergraduate students - Weiss Summer Science Research program at College of the Holy Cross - Summer 2024
+    
+ * Research grant from the J.D. Power Center at College of the Holy Cross - Fall 2023
+
+ *  Travel grant - College of the Holy Cross - Spring 2023
+   
+ *  Stipend for mentoring two undergraduate students - Weiss Summer Science Research program at College of the Holy Cross - Summer 2023
+   
+ *  Full-time Faculty Development Fund, Office of the Provost, Northeastern University - Spring 2016.
+
+ ## Professional  Services
 
 * Prepared the Annual Stephens Scholarship Examination in Mathematics at Knox College which was held in December, 2025.
   
@@ -395,6 +413,7 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 ## William Lowell Putnam Mathematical Competition 
 
 * Prepared math majors at Knox College for the Putnam Competition which was held in December, 2025.
+
 * Co-organized help sessions at the College of the Holy Cross for the Putnam Competition which was held in December, 2024.
 
 ## Journal Referee 
@@ -445,6 +464,28 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 * London Mathematical Society 
 
+ ## Awards, Academic Achievements and Scholarships
+
+ * First class honors in B.Sc.(special degree) majoring Mathematics, University of Kelaniya, Sri Lanka, 2007
+   
+ * Recipient of the Gold medal in Mathematics at the University of Kelaniya, Sri Lanka, 2007
+   
+ * Graduate Teaching Assistantship in the Department of Mathematics and Statistics at the University of South Florida from Spring 2008 to Spring 2013
+   
+ * Tharp Scholarship, University of South Florida in 2010
+   
+ * Provost's Certificate of Recognition for outstanding performance as a Graduate Teaching Assistant in University of South Florida in 2010
+   
+ * Tharp Scholarship, University of South Florida in 2011
+   
+ * Provost's Certificate of Recognition for outstanding performance as a Graduate Teaching Assistant in University of South Florida in 2012
+
+ * Tharp Scholarship, University of South Florida in 2012
+ 
+ * Professor Appreciation Award, Black Engineering Student Society, Northeastern University, April 11th, 2014.
+ 
+ * Eugene P. Shelly Visiting Assistant Professor Position at Carnegie Mellon University, a position created through a gift of Eugene P. Shelly, 2019.
+ 
 
 ## Non-academic Interests 
 
@@ -453,6 +494,12 @@ I have been a reviewer for Mathematical Reviews since 2017.
 * Squash
 * Volleyball
 * Travelling
+
+## Languages 
+
+ * English (fluent)
+ * Sinhala (fluent)
+ * Tamil (beginner)
 
 ## Profiles
 
