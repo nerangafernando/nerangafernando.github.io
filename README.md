@@ -373,7 +373,7 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 
 ## Professional  Services
 
-* Prepared the Annual Stephens Scholarship Examination in Mathematics at Knox College which will be held in December, 2025.
+* Prepared the Annual Stephens Scholarship Examination in Mathematics at Knox College which was held in December, 2025.
   
 * Served as the organizer of student research talks in the Department of Mathematics and Computer Science at College of the Holy Cross in the academic year 2024/2025. 
 
