@@ -389,7 +389,7 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 * Served on the space committee in the Department of Mathematics at Northeastern University in the Academic Year 2018 - 2019. 
 
 
-## William Lowell Putnam Mathematical Competition -
+## William Lowell Putnam Mathematical Competition 
 
 * Prepared math majors at Knox College for the Putnam Competition which was held in December, 2025.
 * Co-organized help sessions at the College of the Holy Cross for the Putnam Competition which was held in December, 2024.
@@ -434,7 +434,7 @@ I have been a reviewer for Zentralblatt MATH since 2017.
 
 I have been a reviewer for Mathematical Reviews since 2017.
 
-## Professional Memberships -
+## Professional Memberships 
 
 * American Mathematical Society
 
@@ -443,7 +443,7 @@ I have been a reviewer for Mathematical Reviews since 2017.
 * London Mathematical Society 
 
 
-## Non-academic Interests -
+## Non-academic Interests 
 
 * Music
 * Racquetball
