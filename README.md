@@ -124,7 +124,10 @@ The asterisk denotes an undergraduate student.
 33. A New Approach to Permutation Polynomials over Finite Fields, Discrete Mathematics Seminar, University of South Florida, November 19, 2012.
 34. <b>(invited)</b> Permutation Polynomials over Finite Fields defined by functional equations, AMS Sectional Meeting, University of South Florida , March 10-11, 2012. 
 35. A Matrix form of the Jacobi-Trudi Identity, Discrete Mathematics Seminar, University of South Florida, February 8, 2010.
- 
+
+## Conference Organization
+
+* Organizer of the special session on finite fields and their applications at AMS Sectional Meeting at Boston College, March 28 - 29, 2026.  https://www.ams.org/meetings/sectional/2331_program_ss12.html#title
 
 ## Teaching Experience 
 
