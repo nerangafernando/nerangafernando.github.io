@@ -389,7 +389,7 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
    
  *  Full-time Faculty Development Fund, Office of the Provost, Northeastern University - Spring 2016.
 
- ## Professional  Services
+## Professional  Services
 
 * Prepared the Annual Stephens Scholarship Examination in Mathematics at Knox College which was held in December, 2025.
   
@@ -464,7 +464,7 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 * London Mathematical Society 
 
- ## Awards, Academic Achievements and Scholarships
+## Awards, Academic Achievements and Scholarships
 
  * First class honors in B.Sc.(special degree) majoring Mathematics, University of Kelaniya, Sri Lanka, 2007
    
