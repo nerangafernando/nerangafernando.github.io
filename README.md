@@ -557,17 +557,17 @@ I have been a reviewer for Mathematical Reviews since 2017.
  #### Fall 2024
 
  <figure>
-  <img src="images/24401S25.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/136F241.jpg" width="150" alt="Description for screen readers">
   <figcaption>Calculus 2 - Section 1</figcaption>
 </figure> 
 
 <figure>
-  <img src="images/24402S25.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/136F245.jpg" width="150" alt="Description for screen readers">
   <figcaption>Calculus 2 - Section 2</figcaption>
 </figure> 
 
 <figure>
-  <img src="images/23201S25.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/375F241.jpg" width="150" alt="Description for screen readers">
   <figcaption>Probability Theory</figcaption>
 </figure> 
 
