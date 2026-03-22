@@ -329,6 +329,8 @@ Sean, Zack and Jack presented their research results at the Weiss Summer Researc
 #### Research Articles: 
 Jiaqi Fang, Neranga Fernando, Haoming Wu, <b> Reversed Dickson polynomials </b>, Involve, a Journal of Mathematics 18-2 (2025), 297 – 328
 
+<img align="right" width="200" src="images/JM.jpeg">
+
 #### Dissemination of Results:
 Jiaqi and Haoming presented their research results of the Weiss Program at 
 * Weiss Summer Research Symposium at College of the Holy Cross, September 8, 2023, 
@@ -416,6 +418,7 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 ## William Lowell Putnam Mathematical Competition 
 
 * Prepared math majors at Knox College for the Putnam Competition which was held in December, 2025.
+  <img align="right" width="200" src="images/Putnam2025.jpeg">
 
 * Co-organized help sessions at the College of the Holy Cross for the Putnam Competition which was held in December, 2024.
 
