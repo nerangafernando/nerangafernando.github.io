@@ -624,6 +624,21 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 #### Fall 2022
 
+ <figure>
+  <img src="images/241F22.jpeg" width="150" alt="Description for screen readers">
+  <figcaption> Multivariable Calculus </figcaption>
+</figure> 
+
+<figure>
+  <img src="images/135F22.jpeg" width="150" alt="Description for screen readers">
+  <figcaption> Calculus 1 </figcaption>
+</figure> 
+
+<figure>
+  <img src="images/133F22.jpeg" width="150" alt="Description for screen readers">
+  <figcaption> Calculus 1 with Fundamentals </figcaption>
+</figure> 
+
 #### Spring 2022
 
 #### Fall 2021
