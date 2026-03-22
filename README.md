@@ -590,6 +590,21 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 #### Fall 2023
 
+ <figure>
+  <img src="images/13601F23.jpeg" width="150" alt="Description for screen readers">
+  <figcaption> Calculus 2 </figcaption>
+</figure> 
+
+<figure>
+  <img src="images/13503F23.jpeg" width="150" alt="Description for screen readers">
+  <figcaption> Calculus 1 - Section 3 </figcaption>
+</figure> 
+
+<figure>
+  <img src="images/13504F23.jpeg" width="150" alt="Description for screen readers">
+  <figcaption> Calculus 1 - Section 4 </figcaption>
+</figure> 
+
 #### Spring 2023
 
 #### Fall 2022
