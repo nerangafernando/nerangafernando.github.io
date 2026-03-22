@@ -527,17 +527,17 @@ I have been a reviewer for Mathematical Reviews since 2017.
   <figcaption>With Putnam Students at Knox College 2025</figcaption>
 </figure>
 
- ## Class Photos 
+## Class Photos 
 
- ### Knox College
+### Knox College
 
- #### Winter 2026
+#### Winter 2026
 
- #### Fall 2025
+#### Fall 2025
 
- ### College of the Holy Cross 
+### College of the Holy Cross 
 
- #### Spring 2025
+#### Spring 2025
 
 <figure>
   <img src="images/24401S25.jpeg" width="150" alt="Description for screen readers">
@@ -554,7 +554,7 @@ I have been a reviewer for Mathematical Reviews since 2017.
   <figcaption>Categorical Data Analysis</figcaption>
 </figure> 
 
- #### Fall 2024
+#### Fall 2024
 
  <figure>
   <img src="images/136F241.jpg" width="150" alt="Description for screen readers">
@@ -571,17 +571,17 @@ I have been a reviewer for Mathematical Reviews since 2017.
   <figcaption>Probability Theory</figcaption>
 </figure> 
 
- #### Spring 2024
+#### Spring 2024
 
- #### Fall 2023
+#### Fall 2023
 
- #### Spring 2023
+#### Spring 2023
 
- #### Fall 2022
+#### Fall 2022
 
- #### Spring 2022
+#### Spring 2022
 
- #### Fall 2021
+#### Fall 2021
 
 
        
