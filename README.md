@@ -574,17 +574,17 @@ I have been a reviewer for Mathematical Reviews since 2017.
 #### Spring 2024
 
  <figure>
-  <img src="images/136F241.jpg" width="150" alt="Description for screen readers">
+  <img src="images/361S24.jpeg" width="150" alt="Description for screen readers">
   <figcaption> Real Analysis </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/136F245.jpg" width="150" alt="Description for screen readers">
+  <img src="images/136S24.jpeg" width="150" alt="Description for screen readers">
   <figcaption> Calculus 2 </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/375F241.jpg" width="150" alt="Description for screen readers">
+  <img src="images/RepS24.jpeg" width="150" alt="Description for screen readers">
   <figcaption> Representation Theory </figcaption>
 </figure> 
 
