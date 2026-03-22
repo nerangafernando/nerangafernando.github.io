@@ -290,7 +290,9 @@ Sean, Zack and Jack presented their research results at a student research semin
 
 Zack and Jack also presented their research results at  
 * An undergraduate math conference at Smith College on September 21, 2024, and 
-* Academic Conference at College of the Holy Cross on April 23, 2025. 
+* Academic Conference at College of the Holy Cross on April 23, 2025.
+
+<img align="right" width="200" src="images/ZJ.jpeg">
 
 <code style="color: blue"> Weiss Summer Science Research Program from June 3, 2024 to July 26, 2024 at College of the Holy Cross </code>
 
@@ -418,8 +420,7 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 ## William Lowell Putnam Mathematical Competition 
 
 * Prepared math majors at Knox College for the Putnam Competition which was held in December, 2025.
-  <img align="right" width="200" src="images/Putnam2025.jpeg">
-
+* 
 * Co-organized help sessions at the College of the Holy Cross for the Putnam Competition which was held in December, 2024.
 
 ## Journal Referee 
