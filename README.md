@@ -534,12 +534,12 @@ I have been a reviewer for Mathematical Reviews since 2017.
 #### Winter 2026
 
 <figure>
-  <img src="images/.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/MATH185W26.jpeg" width="500" alt="Description for screen readers">
   <figcaption> linear Algebra </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/STAT200W26.jpeg" width="500" alt="Description for screen readers">
   <figcaption> Introductory Statistics </figcaption>
 </figure> 
 
@@ -547,12 +547,12 @@ I have been a reviewer for Mathematical Reviews since 2017.
 #### Fall 2025
 
 <figure>
-  <img src="images/.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/MATH217F25.jpeg" width="500" alt="Description for screen readers">
   <figcaption> Number Theory </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/MATH145F25.jpeg" width="500" alt="Description for screen readers">
   <figcaption> Calculus 1 </figcaption>
 </figure> 
 
