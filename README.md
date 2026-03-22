@@ -647,16 +647,31 @@ I have been a reviewer for Mathematical Reviews since 2017.
 </figure> 
 
 <figure>
-  <img src="images/13503S22.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/Calc13.jpeg" width="500" alt="Description for screen readers">
   <figcaption> Calculus 1 - Section 3 </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/13504S22.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/Calc14.jpeg" width="500" alt="Description for screen readers">
   <figcaption> Calculus 1 - Section 4 </figcaption>
 </figure> 
 
 #### Fall 2021
+
+ <figure>
+  <img src="images/Modern.jpeg" width="500" alt="Description for screen readers">
+  <figcaption> Calculus 2 - Section 4 </figcaption>
+</figure> 
+
+<figure>
+  <img src="images/Calc13.jpeg" width="500" alt="Description for screen readers">
+  <figcaption> Calculus 2 - Section 5 </figcaption>
+</figure> 
+
+<figure>
+  <img src="images/Calc14.jpeg" width="500" alt="Description for screen readers">
+  <figcaption> Multivariable Calculus </figcaption>
+</figure> 
 
 
        
