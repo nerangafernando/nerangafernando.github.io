@@ -539,7 +539,37 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
  #### Spring 2025
 
+<figure>
+  <img src="images/24401S25.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>Linear Algebra - Section 1</figcaption>
+</figure> 
+
+<figure>
+  <img src="images/24402S25.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>Linear Algebra - Section 2</figcaption>
+</figure> 
+
+<figure>
+  <img src="images/23201S25.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>Categorical Data Analysis</figcaption>
+</figure> 
+
  #### Fall 2024
+
+ <figure>
+  <img src="images/24401S25.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>Calculus 2 - Section 1</figcaption>
+</figure> 
+
+<figure>
+  <img src="images/24402S25.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>Calculus 2 - Section 2</figcaption>
+</figure> 
+
+<figure>
+  <img src="images/23201S25.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>Probability Theory</figcaption>
+</figure> 
 
  #### Spring 2024
 
