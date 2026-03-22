@@ -513,17 +513,17 @@ I have been a reviewer for Mathematical Reviews since 2017.
 ## Photos with Research Students and Putnam Students 
 
 <figure>
-  <img src="images/JM.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/JM.jpeg" width="350" alt="Description for screen readers">
   <figcaption>With Jiaqi and Ming</figcaption>
 </figure>
 
 <figure>
-  <img src="images/ZJ.jpg" width="150" alt="Description for screen readers">
+  <img src="images/ZJ.jpg" width="350" alt="Description for screen readers">
   <figcaption>With Zack and Jack</figcaption>
 </figure>
 
  <figure>
-  <img src="images/Putnam2025.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/Putnam2025.jpeg" width="350" alt="Description for screen readers">
   <figcaption>With Putnam Students at Knox College 2025</figcaption>
 </figure>
 
@@ -540,7 +540,7 @@ I have been a reviewer for Mathematical Reviews since 2017.
 #### Spring 2025
 
 <figure>
-  <img src="images/24401S25.jpeg" width="350" alt="Description for screen readers">
+  <img src="images/24401S25.jpeg" width="500" alt="Description for screen readers">
   <figcaption>Linear Algebra - Section 1</figcaption>
 </figure> 
 
