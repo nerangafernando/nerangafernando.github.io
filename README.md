@@ -206,6 +206,8 @@ The asterisk denotes an undergraduate student.
 #### Student: Zhaoqi (Zack) Wu
 #### Thesis Title: A Study of Knots and Quandles (Fall 2024 & Spring 2025)
 
+<img align="right" width="200" src="images/Zack.jpeg">
+
 Zack successfully defended his thesis on May 7, 2025.  
 
 He also presented sections 9, 10 & 11 of his thesis, which contain original results, at an undergraduate math conference at Union College in Schenectady in New York on April 5, 2025. 
