@@ -1,4 +1,5 @@
-# Neranga Fernando
+# Neranga Fernando                                                                 
+<img align="right" width="150" src="images/NF.JPEG">
      
 Department of Mathematics \
 Knox College \
