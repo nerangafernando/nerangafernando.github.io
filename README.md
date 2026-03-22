@@ -540,102 +540,102 @@ I have been a reviewer for Mathematical Reviews since 2017.
 #### Spring 2025
 
 <figure>
-  <img src="images/24401S25.jpeg" width="250" alt="Description for screen readers">
+  <img src="images/24401S25.jpeg" width="350" alt="Description for screen readers">
   <figcaption>Linear Algebra - Section 1</figcaption>
 </figure> 
 
 <figure>
-  <img src="images/24402S25.jpeg" width="250" alt="Description for screen readers">
+  <img src="images/24402S25.jpeg" width="350" alt="Description for screen readers">
   <figcaption>Linear Algebra - Section 2</figcaption>
 </figure> 
 
 <figure>
-  <img src="images/23201S25.jpeg" width="250" alt="Description for screen readers">
+  <img src="images/23201S25.jpeg" width="350" alt="Description for screen readers">
   <figcaption>Categorical Data Analysis</figcaption>
 </figure> 
 
 #### Fall 2024
 
  <figure>
-  <img src="images/136F241.jpg" width="150" alt="Description for screen readers">
+  <img src="images/136F241.jpg" width="350" alt="Description for screen readers">
   <figcaption>Calculus 2 - Section 1</figcaption>
 </figure> 
 
 <figure>
-  <img src="images/136F245.jpg" width="150" alt="Description for screen readers">
+  <img src="images/136F245.jpg" width="350" alt="Description for screen readers">
   <figcaption>Calculus 2 - Section 2</figcaption>
 </figure> 
 
 <figure>
-  <img src="images/375F241.jpg" width="150" alt="Description for screen readers">
+  <img src="images/375F241.jpg" width="350" alt="Description for screen readers">
   <figcaption>Probability Theory</figcaption>
 </figure> 
 
 #### Spring 2024
 
  <figure>
-  <img src="images/361S24.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/361S24.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Real Analysis </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/136S24.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/136S24.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 2 </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/RepS24.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/RepS24.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Representation Theory </figcaption>
 </figure> 
 
 #### Fall 2023
 
  <figure>
-  <img src="images/13601F23.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/13601F23.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 2 </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/13503F23.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/13503F23.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 1 - Section 3 </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/13504F23.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/13504F23.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 1 - Section 4 </figcaption>
 </figure> 
 
 #### Spring 2023
 
  <figure>
-  <img src="images/243S23.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/243S23.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Mathematical Structures </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/13601S23.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/13601S23.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 1 - Section 1 </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/13603S23.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/13603S23.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 2 - Section 3 </figcaption>
 </figure> 
 
 #### Fall 2022
 
  <figure>
-  <img src="images/241F22.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/241F22.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Multivariable Calculus </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/135F22.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/135F22.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 1 </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/133F22.jpeg" width="150" alt="Description for screen readers">
+  <img src="images/133F22.jpeg" width="350" alt="Description for screen readers">
   <figcaption> Calculus 1 with Fundamentals </figcaption>
 </figure> 
 
