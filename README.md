@@ -292,8 +292,6 @@ Zack and Jack also presented their research results at
 * An undergraduate math conference at Smith College on September 21, 2024, and 
 * Academic Conference at College of the Holy Cross on April 23, 2025.
 
-<img align="right" width="200" src="images/ZJ.jpeg">
-
 <code style="color: blue"> Weiss Summer Science Research Program from June 3, 2024 to July 26, 2024 at College of the Holy Cross </code>
 
 #### Students supervised: Zhaoqi (Zack) Wu, Zhiyan (Jack) Jiang, Sean Baker
@@ -330,8 +328,6 @@ Sean, Zack and Jack presented their research results at the Weiss Summer Researc
 
 #### Research Articles: 
 Jiaqi Fang, Neranga Fernando, Haoming Wu, <b> Reversed Dickson polynomials </b>, Involve, a Journal of Mathematics 18-2 (2025), 297 – 328
-
-<img align="right" width="200" src="images/JM.jpeg">
 
 #### Dissemination of Results:
 Jiaqi and Haoming presented their research results of the Weiss Program at 
@@ -514,7 +510,26 @@ I have been a reviewer for Mathematical Reviews since 2017.
 * <a href="https://www.researchgate.net/profile/Neranga-Fernando"> ResearchGate </a>
 * <a href="https://orcid.org/0000-0003-3823-3304"> ORCID </a>
 
+## Photos with Research Students and Putnam Students 
 
+<figure>
+  <img src="images/JM.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>With Jiaqi and Ming</figcaption>
+</figure>
+
+<figure>
+  <img src="images/ZJ.jpg" width="150" alt="Description for screen readers">
+  <figcaption>With Zack and Jack</figcaption>
+</figure>
+
+ <figure>
+  <img src="images/Putnam2025.jpeg" width="150" alt="Description for screen readers">
+  <figcaption>With Putnam Students at Knox College 2025</figcaption>
+</figure>
+
+ ## Class Photos 
+
+ 
 
 
        
