@@ -535,7 +535,7 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 <figure>
   <img src="images/MATH185W26.jpeg" width="500" alt="Description for screen readers">
-  <figcaption> linear Algebra </figcaption>
+  <figcaption> Linear Algebra </figcaption>
 </figure> 
 
 <figure>
