@@ -132,13 +132,13 @@ The asterisk denotes an undergraduate student.
 
 ## Research Visits and Workshops 
 
-* A research visit to California State University, August 10 - 16, 2025. Host: Daniel J. Katz
+* A research visit to California State University, Northridge, August 10 - 16, 2025. Host: Daniel J. Katz
 
 ## Upcoming Conferences and Workshops 
 
 * International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
 
-* CMND 2026 Thematic Program: Algebraic Combinatorics and Applications, University of Notre Dame, June 29 - 10, 2026. 
+* CMND 2026 Thematic Program: Algebraic Combinatorics and Applications, University of Notre Dame, June 29 - July 10, 2026. 
 
 ## Teaching Experience 
 
