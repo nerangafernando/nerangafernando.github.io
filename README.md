@@ -134,6 +134,8 @@ The asterisk denotes an undergraduate student.
 
 * A research visit to California State University, Northridge, August 10 - 16, 2025. Host: Daniel J. Katz
 
+* Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026. 
+
 ## Upcoming Conferences and Workshops 
 
 * International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
