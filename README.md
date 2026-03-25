@@ -130,6 +130,16 @@ The asterisk denotes an undergraduate student.
 
 * Organizer of the special session on finite fields and their applications at AMS Sectional Meeting at Boston College, March 28 - 29, 2026.  https://www.ams.org/meetings/sectional/2331_program_ss12.html#title
 
+## Research Visits and Workshops 
+
+* A research visit to California State University, August 10 - 16, 2025. Host: Daniel J. Katz
+
+## Upcoming Conferences and Workshops 
+
+* International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
+
+* CMND 2026 Thematic Program: Algebraic Combinatorics and Applications, University of Notre Dame, June 29 - 10, 2026. 
+
 ## Teaching Experience 
 
 #### Knox College, Galesburg, IL     
@@ -416,7 +426,7 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 ## William Lowell Putnam Mathematical Competition 
 
 * Prepared math majors at Knox College for the Putnam Competition which was held in December, 2025.
-* 
+  
 * Co-organized help sessions at the College of the Holy Cross for the Putnam Competition which was held in December, 2024.
 
 ## Journal Referee 
