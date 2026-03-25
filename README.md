@@ -134,6 +134,11 @@ The asterisk denotes an undergraduate student.
 
 * A research visit to California State University, Northridge, August 10 - 16, 2025. Host: Daniel J. Katz
 
+<figure>
+  <img src="images/Daniel.jpeg" width="200" alt="Description for screen readers">
+  <figcaption>With Daniel in Malibu</figcaption>
+</figure> 
+
 ## Upcoming Conferences and Workshops 
 
 * International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
