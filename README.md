@@ -1,9 +1,9 @@
 # Neranga Fernando                                                                 
 <img align="right" width="150" src="images/NF.JPEG">
      
-Department of Mathematics \
-Knox College \
-2 E South St \
+Department of Mathematics\
+Knox College\
+2 E South St\
 Galesburg, IL 61401\
 United States\
 Email: nfernando AT knox DOT edu\
@@ -140,6 +140,14 @@ The asterisk denotes an undergraduate student.
   <img src="images/Daniel.jpeg" width="200" alt="Description for screen readers">
   <figcaption>With Daniel in Malibu</figcaption>
 </figure> 
+
+## Upcoming Conferences and Workshops 
+
+* International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
+
+* CMND 2026 Thematic Program: Algebraic Combinatorics and Applications, University of Notre Dame, June 29 - July 10, 2026.
+
+* Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026. 
 
 ## Teaching Experience 
 
