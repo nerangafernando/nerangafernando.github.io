@@ -159,7 +159,7 @@ The asterisk denotes an undergraduate student.
 4. Introductory Statistics STAT 200
 5. Discrete Mathematics MATH 175 (Spring 2026)
 6. Calculus 3 MATH 205 (Spring 2026)
-7. Topics in Combinatorics - Independent Study (Spring 2026)
+7. Topics in Combinatorics - MATH 361 Research in Mathematics (Spring 2026)
 8. Topics in Operations Research - Independent Study (Spring 2026)
                    
                     
