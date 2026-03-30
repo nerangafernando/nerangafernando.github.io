@@ -132,6 +132,8 @@ The asterisk denotes an undergraduate student.
 
 * Organizer of the special session on finite fields and their applications at AMS Sectional Meeting at Boston College, March 28 - 29, 2026.  https://www.ams.org/meetings/sectional/2331_program_ss12.html#title
 
+  I gratefully acknowledge financial support to the session on finite fields and their applications from the Journal of Number Theory (Elsevier). 
+
 ## Research Visits 
 
 * A research visit to California State University, Northridge, August 10 - 16, 2025. Host: Daniel J. Katz
