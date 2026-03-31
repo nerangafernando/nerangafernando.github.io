@@ -397,6 +397,8 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 
 ## Research Grants,Travel Grants and Stipends
 
+ * Conference Travel Award from Eleanor Zweifel and Anne Zweifel Taylor Fund - Knox College 2025/2026. 
+
  * Research grant from the J.D. Power Center at College of the Holy Cross - Spring 2025
    
  * Provost's Supplemental Research Fund, College of the Holy Cross - Fall 2024
