@@ -403,17 +403,17 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
    
  * Provost's Supplemental Research Fund, College of the Holy Cross - Fall 2024
    
- *  Research grant from the J.D. Power Center at College of the Holy Cross - Fall 2024
+ * Research grant from the J.D. Power Center at College of the Holy Cross - Fall 2024
          
  * Stipend for mentoring three undergraduate students - Weiss Summer Science Research program at College of the Holy Cross - Summer 2024
     
  * Research grant from the J.D. Power Center at College of the Holy Cross - Fall 2023
 
- *  Travel grant - College of the Holy Cross - Spring 2023
+ * Travel grant - College of the Holy Cross - Spring 2023
    
- *  Stipend for mentoring two undergraduate students - Weiss Summer Science Research program at College of the Holy Cross - Summer 2023
+ * Stipend for mentoring two undergraduate students - Weiss Summer Science Research program at College of the Holy Cross - Summer 2023
    
- *  Full-time Faculty Development Fund, Office of the Provost, Northeastern University - Spring 2016.
+ * Full-time Faculty Development Fund, Office of the Provost, Northeastern University - Spring 2016.
 
 ## Professional  Services
 
