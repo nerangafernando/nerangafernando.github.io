@@ -252,12 +252,13 @@ https://crossworks.holycross.edu/math_honor/64/
 Research Topic: Classifying self-reciprocal polynomials from Dickson polynomials (number theory, combinatorics)
 2. Tan Le (current student)\
 Research Topic: Analyzing the distributions of value sets of reversed Dickson polynomials (number theory, data science)
-3. Tam Nguyen (Katie) (current student)\
-Research Topic: Foxes vs Rabbits in Illinois - a predator-prey model (mathematical modeling)
-4. Aaditya Trivedee (current student) \
+3. Aaditya Trivedee (current student) \
 Research Topic: Intergenerational mobility (mathematics, economics)
+4. Tam Nguyen (Katie)\
+Research Topic: Foxes vs Rabbits in Illinois - a predator-prey model (mathematical modeling)
 
-<b> Dissemination of Results:</b> Tan Le, Herry Vo, Katie Nguyen, and Aaditya Trivedee will be presenting their research
+
+<b> Dissemination of Results:</b> Tan Le, Herry Vo and Katie Nguyen presented their research
 results at an undergraduate mathematics conference at Rose-Hulman Institute of Technology in Terre Haute, Indiana on March 28, 2026.
               
       
