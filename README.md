@@ -91,7 +91,7 @@ The asterisk denotes an undergraduate student.
 ## Talks
 
 1. Reversed Dickson polynomnials over fintie fields, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026. (abstract submitted)
-2. Polynomial g_{n,q}, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026. (abstract submitted) 
+2. Quandle rings and their applications in coding theory, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026. (abstract submitted) 
 3. Permutation polynomials and local permutation polynomials over finite fields defined by functional equations, Boston College, MA, AMS Sectional Meeting, March 28 - 29, 2026.
 4. <b>(invited)</b> Quandle rings and open problems for undergraduate students, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, March 3, 2026.
 5. <b>(invited)</b> Permutation polynomials and reversed Dickson polynomials, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, October 14, 2025
