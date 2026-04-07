@@ -491,7 +491,9 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 * Canadian Mathematical Society 
 
-* London Mathematical Society 
+* London Mathematical Society
+
+* New Zealand Mathematical Society 
 
 ## Awards, Academic Achievements and Scholarships
 
