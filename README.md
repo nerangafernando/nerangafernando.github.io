@@ -120,7 +120,7 @@ The asterisk denotes an undergraduate student.
 28. Reversed Dickson permutation polynomials over finite fields, Algebra, Number Theory, and Combinatorics Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 6, 2018.
 29. Self-reciprocal polynomials arising from reversed Dickson polynomials, Special Session on Polynomials in Enumerative, Algebraic, and Geometric Combinatorics, AMS Sectional Meeting, State University of New York at Buffalo, Buffalo, NY, September 16 - 17, 2017. 
 30. Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II, Special Session on Numbers, Functions, Transcendence, and Geometry, AMS Sectional Meeting, University of North Texas, Denton, TX, September 9 - 10, 2017.  
-31. <b>(invited)</b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, AMS Sectional Meeting, Hunter College, CUNY, New York, NY, May 6 - 7, 2017. 
+31. <b>(invited)</b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, Special Session on Finite Fields and their Applications, AMS Sectional Meeting, Hunter College, CUNY, New York, NY, May 6 - 7, 2017. 
 32. A generalization of the reversed Dickson polynomials over finite fields, Discrete Mathematics Seminar, University of South Florida, March 6, 2017. 
 33. <b>(invited)</b> Permutation polynomials, self-reciprocal polynomials, and their role in coding theory, Northeastern University, December 1, 2016. (Chalkboard presentation)
 34. <b>(invited)</b> Reversed Dickson polynomials of the third kind, 47th Southeastern International Conference on Combinatorics, Graph Theory & Computing, March 7-11, 2016. 
