@@ -98,7 +98,7 @@ The asterisk denotes an undergraduate student.
 6. <b>(invited)</b> Quandle rings and open problems for undergraduate students, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, March 3, 2026.
 7. <b>(invited)</b> Permutation polynomials and reversed Dickson polynomials, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, October 14, 2025
 8. Idempotents in quandle rings, Special Session on Nonassociative Algebraic Structures, AMS Sectional Meeting, University of Denver, Denver, CO, August 23 - 24, 2025. 
-9. <b>(invited)</b> Reversed Dickson polynomials over finite fields, California Polytechnic, San Luis Obispo, CA, AMS Sectional Meeting, May 3 - 4, 2025.
+9. <b>(invited)</b> Reversed Dickson polynomials over finite fields, Special Session on Number theory at Primarily Undergraduate Institutions, AMS Sectional Meeting, California Polytechnic, San Luis Obispo, CA, May 3 - 4, 2025.
 10. Permutation polynomials and reversed Dickson polynomials, Rose-Hulman Institute of Technology, Terre Haute, IN, April 25, 2025. 
 11. Idempotents and tripotents in quandle rings, Knots in Washington, George Washington University, December 6 - 8, 2024.
 12. <b>(invited)</b>  Idempotents and tripotents in Quandle Rings, Canadian Mathematical Society Winter Meeting 2024, Vancouver, Canada, November 29 - December 2, 2024.
