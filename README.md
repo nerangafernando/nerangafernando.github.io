@@ -90,8 +90,8 @@ The asterisk denotes an undergraduate student.
 
 ## Talks
 
-1. Quandles, quandle rings and their applications in coding theory, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. (abstract to be submitted) 
-2. Contributions to the family of reversed Dickson polynomials, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
+1. <b> Quandles, quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. (abstract to be submitted) 
+2. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
 3. Reversed Dickson polynomnials over fintie fields, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
 4. Quandle rings and their applications in coding theory, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
 5. Permutation polynomials and local permutation polynomials over finite fields defined by functional equations, Special Session on Finite Fields and Their Applications, AMS Sectional Meeting, Boston College, MA, March 28 - 29, 2026.
