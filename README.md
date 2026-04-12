@@ -92,16 +92,16 @@ The asterisk denotes an undergraduate student.
 
 1. <b> Quandles, quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. (abstract to be submitted) 
 2. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
-3. Reversed Dickson polynomnials over fintie fields, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
-4. Quandle rings and their applications in coding theory, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
-5. Permutation polynomials and local permutation polynomials over finite fields defined by functional equations, Special Session on Finite Fields and Their Applications, AMS Sectional Meeting, Boston College, MA, March 28 - 29, 2026.
-6. <b>(invited)</b> Quandle rings and open problems for undergraduate students, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, March 3, 2026.
-7. <b>(invited)</b> Permutation polynomials and reversed Dickson polynomials, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, October 14, 2025
-8. Idempotents in quandle rings, Special Session on Nonassociative Algebraic Structures, AMS Sectional Meeting, University of Denver, Denver, CO, August 23 - 24, 2025. 
-9. <b>(invited)</b> Reversed Dickson polynomials over finite fields, Special Session on Number theory at Primarily Undergraduate Institutions, AMS Sectional Meeting, California Polytechnic, San Luis Obispo, CA, May 3 - 4, 2025.
-10. Permutation polynomials and reversed Dickson polynomials, Rose-Hulman Institute of Technology, Terre Haute, IN, April 25, 2025. 
-11. Idempotents and tripotents in quandle rings, Knots in Washington, George Washington University, December 6 - 8, 2024.
-12. <b>(invited)</b>  Idempotents and tripotents in Quandle Rings, Scientific Session on Finite Fields and Their Applications, Canadian Mathematical Society Winter Meeting 2024, Vancouver, Canada, November 29 - December 2, 2024.
+3. <b> Reversed Dickson polynomnials over fintie fields </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
+4. <b> Quandle rings and their applications in coding theory </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
+5. <b> Permutation polynomials and local permutation polynomials over finite fields defined by functional equations </b>, Special Session on Finite Fields and Their Applications, AMS Sectional Meeting, Boston College, MA, March 28 - 29, 2026.
+6. (invited) <b> Quandle rings and open problems for undergraduate students </b>, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, March 3, 2026.
+7. (invited) <b> Permutation polynomials and reversed Dickson polynomials </b>, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, October 14, 2025
+8. <b> Idempotents in quandle rings </b>, Special Session on Nonassociative Algebraic Structures, AMS Sectional Meeting, University of Denver, Denver, CO, August 23 - 24, 2025. 
+9. (invited) <b> Reversed Dickson polynomials over finite fields </b>, Special Session on Number theory at Primarily Undergraduate Institutions, AMS Sectional Meeting, California Polytechnic, San Luis Obispo, CA, May 3 - 4, 2025.
+10. <b> Permutation polynomials and reversed Dickson polynomials </b>, Rose-Hulman Institute of Technology, Terre Haute, IN, April 25, 2025. 
+11. <b> Idempotents and tripotents in quandle rings </b>, Knots in Washington, George Washington University, December 6 - 8, 2024.
+12. (invited) <b> Idempotents and tripotents in Quandle Rings </b>, Scientific Session on Finite Fields and Their Applications, Canadian Mathematical Society Winter Meeting 2024, Vancouver, Canada, November 29 - December 2, 2024.
 13. Idempotents in quandle rings, Special Session on Invariants of Knots, Links, and Low-dimensional Manifolds, AMS Sectional Meeting, University of Albany, Albany, New York, NY, October 19 - 20, 2024.
 14. Quandles, racks and shelves, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 22, 2023.
 15. Reversed Dickson polynomials of the (k+1)-th kind over fintie fields, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 20, 2023. 
