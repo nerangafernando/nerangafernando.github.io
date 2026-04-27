@@ -165,11 +165,12 @@ The asterisk denotes an undergraduate student.
 1. Applied Calculus 1 MATH 145
 2. Number Theory MATH 217
 3. Linear Algebra MATH 185
-4. Introductory Statistics STAT 200
-5. Discrete Mathematics MATH 175 (Spring 2026)
-6. Calculus 3 MATH 205 (Spring 2026)
-7. Topics in Combinatorics - MATH 361 Research in Mathematics (Spring 2026)
-8. Topics in Operations Research - Independent Study (Spring 2026)
+4. Real Analysis MATH 331 (to teach) 
+5. Discrete Mathematics MATH 175 
+6. Calculus 3 MATH 205
+7. Introductory Statistics STAT 200
+8. Topics in Combinatorics - MATH 361 Research in Mathematics (Spring 2026)
+9. Topics in Operations Research - Independent Study (Spring 2026)
                    
                     
 #### College of the Holy Cross, Worcester, Massachusetts, USA                                                                             
