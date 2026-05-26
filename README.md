@@ -255,13 +255,13 @@ https://crossworks.holycross.edu/math_honor/64/
 ### Knox College, Galesburg, IL
 
 1. Sy Quoc Uy Vo (Herry)\
-Research Topic: Classifying self-reciprocal polynomials from Dickson polynomials (number theory, combinatorics)
+Research Topic: Classifying self-reciprocal polynomials from Dickson polynomials
 2. Tan Le\
-Research Topic: Analyzing the distributions of value sets of reversed Dickson polynomials (number theory, data science)
+Research Topic: Analyzing the distributions of value sets of reversed Dickson polynomials
 3. Aaditya Trivedee (current student) \
-Research Topic: Intergenerational mobility (mathematics, economics)
+Research Topic: Intergenerational mobility 
 4. Tam Nguyen (Katie)\
-Research Topic: Foxes vs Rabbits in Illinois - a predator-prey model (mathematical modeling)
+Research Topic: Foxes vs Rabbits in Illinois - a predator-prey model 
 
 
 <b> Dissemination of Results:</b> Tan Le, Herry Vo and Katie Nguyen presented their research
