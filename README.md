@@ -568,12 +568,12 @@ I have been a reviewer for Mathematical Reviews since 2017.
 #### Spring 2026
 
 <figure>
-  <img src="images/MATH175S26.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/MATH175S26.jpg" width="500" alt="Description for screen readers">
   <figcaption> Discrete Mathematics </figcaption>
 </figure> 
 
 <figure>
-  <img src="images/MATH205S26.jpeg" width="500" alt="Description for screen readers">
+  <img src="images/MATH205S26.jpg" width="500" alt="Description for screen readers">
   <figcaption> Calculus 3 </figcaption>
 </figure> 
 
