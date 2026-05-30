@@ -565,6 +565,18 @@ I have been a reviewer for Mathematical Reviews since 2017.
 
 ### Knox College
 
+#### Spring 2026
+
+<figure>
+  <img src="images/MATH175S26.jpeg" width="500" alt="Description for screen readers">
+  <figcaption> Discrete Mathematics </figcaption>
+</figure> 
+
+<figure>
+  <img src="images/MATH205S26.jpeg" width="500" alt="Description for screen readers">
+  <figcaption> Calculus 3 </figcaption>
+</figure> 
+
 #### Winter 2026
 
 <figure>
