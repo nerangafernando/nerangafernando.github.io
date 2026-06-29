@@ -155,7 +155,7 @@ The asterisk denotes an undergraduate student.
 
 * Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
 
-* 17th International Conference on Finite Fields and their Applications, June 14 - 18 2027, University College Dublin, Ireland. 
+* 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. 
 
 ## Teaching Experience 
 
