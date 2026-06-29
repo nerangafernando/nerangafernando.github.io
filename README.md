@@ -149,15 +149,13 @@ The asterisk denotes an undergraduate student.
 
 ## Upcoming Conferences and Workshops 
 
-* International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
-
-* CMND 2026 Thematic Program: Algebraic Combinatorics and Applications, University of Notre Dame, June 29 - July 10, 2026.
-
 * New York Number Theory Seminar, Combinatorial and Additive Number Theory (CANT 2026), July 13 - July 17, 2026. 
 
 * Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026.
 
 * Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
+
+* 17th International Conference on Finite Fields and their Applications, June 14 - 18 2027, University College Dublin, Ireland. 
 
 ## Teaching Experience 
 
