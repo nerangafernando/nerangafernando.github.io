@@ -91,8 +91,8 @@ The asterisk denotes an undergraduate student.
 
 ## Talks
 
-1. <b> Quandles, quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. (abstract to be submitted)
-2. <b> Properties of connected shelves and two conjectures </b>, Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. (abstract to be submitted) 
+1. <b> Quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. (abstract to be submitted)
+2. <b> Connected shelves </b>, Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. (abstract to be submitted) 
 3. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
 4. <b> Reversed Dickson polynomnials over fintie fields </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
 5. <b> Quandle rings and their applications in coding theory </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
@@ -154,6 +154,8 @@ The asterisk denotes an undergraduate student.
 * Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026.
 
 * Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
+
+* Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
 
 * 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. 
 
