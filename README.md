@@ -91,7 +91,7 @@ The asterisk denotes an undergraduate student.
 
 ## Talks
 
-1. <b> Permutation polynomials, local permutation polynomials, and polynomial g_{n,q}</b>, 17th International Conference on Finite Fields and their Applications $F_q^{17}$, June 14 - 18, 2027, University College Dublin, Ireland. (abstract to be submitted)
+1. <b> Permutation polynomials, local permutation polynomials, and polynomial g_{n,q}</b>, 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. (abstract to be submitted)
 2. <b> Quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. 
 3. <b> Connected shelves </b>, Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026.
 4. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
