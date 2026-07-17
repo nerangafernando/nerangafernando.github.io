@@ -293,9 +293,9 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
    Current Position: Graduate Student at Columbia University
 7. Jorge El Khoury \
    Research Topic: Dickson polynomials and self-reciprocal polynomials
-8. Charlie Briley 
+8. Charlie Briley \
    Research Topic: Dickson polynomials and self-reciprocal polynomials
-9. Melanie Lytle
+9. Melanie Lytle \
    Research Topic: Dickson polynomials and self-reciprocal polynomials
 
 <code style="color: blue"> Spring 2025 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
