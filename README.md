@@ -256,7 +256,7 @@ https://crossworks.holycross.edu/math_honor/64/
 
 ### Knox College, Galesburg, IL
 
-1. Upasana Aryal] (current student)\
+1. Upasana Aryal (current student)\
 Research Topic: Reversed Dickson polynomials and differential equations
 2. Sy Quoc Uy Vo (Herry) (current student)\
 Research Topic: Classifying self-reciprocal polynomials from Dickson polynomials
