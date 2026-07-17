@@ -276,25 +276,26 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
         
 1. Zhiyan (Jack) Jiang (current student) \
    Research Topic: A study of polynomials defined by functional equations and their applications in cryptography
+   Current Position: Graduate Student at Worcester Polytechnic University
 2. Zhaoqi (Zack) Wu (High Honours)\
    Research Topic: Quandles, racks and shelves\
    Current Position: Graduate Student at the University of Pennsylvania
-4. Qingjian (Jeston) Jiang \
+3. Qingjian (Jeston) Jiang \
    Research Topic: Permutation polynomials defined by functional equations over finite rings, cycle types of permutation polynomials over      finite fields\
    Current Position: Graduate student at the University of Southern California
-5. Sean Baker\
+4. Sean Baker\
    Research Topic: Self-reciprocal polynomials from Dickson polynomials and their applications in coding theory
-6. Jiagi Fang  (Honours)\
+5. Jiagi Fang  (Honours)\
    Research Topic: Complete permutation polynomials arising from reversed Dickson polynomials\
    Current Position: Graduate Student at Columbia University
-8. Ming Wu \
+6. Ming Wu \
    Research Topic: Fixed points of reversed Dickson polynomials\
    Current Position: Graduate Student at Columbia University
-10. Jorge El Khoury \
+7. Jorge El Khoury \
    Research Topic: Dickson polynomials and self-reciprocal polynomials
-11. Charlie Briley 
+8. Charlie Briley 
    Research Topic: Dickson polynomials and self-reciprocal polynomials
-12. Melanie Lytle
+9. Melanie Lytle
    Research Topic: Dickson polynomials and self-reciprocal polynomials
 
 <code style="color: blue"> Spring 2025 Research Associates Program Funded by J.D. Power Center at College of the Holy Cross </code>
