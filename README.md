@@ -275,7 +275,7 @@ results at an undergraduate mathematics conference at Rose-Hulman Institute of T
 ### College of the Holy Cross, Worcester 
         
 1. Zhiyan (Jack) Jiang (current student) \
-   Research Topic: A study of polynomials defined by functional equations and their applications in cryptography
+   Research Topic: A study of polynomials defined by functional equations and their applications in cryptography\
    Current Position: Graduate Student at Worcester Polytechnic University
 2. Zhaoqi (Zack) Wu (High Honours)\
    Research Topic: Quandles, racks and shelves\
