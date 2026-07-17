@@ -80,6 +80,7 @@ Jiaqi Fang<sup>&#42;</sup> (College of the Holy Cross, USA)\
 Matthew Goonewardena (Ericsson, Montreal, Canada)\
 <a href="https://sites.google.com/site/sartajulhasan/"> Sartaj Ul Hasan </a> (IIT Jammu, India) \
 <a href="https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/xiang-dong-hou.aspx"> Xiang-dong Hou </a> (USF, Tampa, USA) \
+Bhitali Kousik (Tezpur University, Assam, India) \
 Stephen D. Lappano (USF, Tampa, USA) \
 <a href="https://scholar.google.com/citations?user=gEverrIAAAAJ&hl=en"> Solomon Manukure </a> (Florida A&M University, USA) \
 <a href="https://mathmohit.github.io/home/"> Mohit Pal </a> (Indian Statistical Institute, Kolkata) \
