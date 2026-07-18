@@ -92,47 +92,49 @@ The asterisk denotes an undergraduate student.
 
 ## Talks
 
-1. <b> Permutation polynomials, local permutation polynomials, and polynomial g_{n,q}</b>, 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. (abstract to be submitted)
-2. <b> Quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. 
-3. <b> Connected shelves </b>, Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026.
-4. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
-5. <b> Reversed Dickson polynomnials over fintie fields </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
-6. <b> Quandle rings and their applications in coding theory </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
-7. <b> Permutation polynomials and local permutation polynomials over finite fields defined by functional equations </b>, Special Session on Finite Fields and Their Applications, AMS Sectional Meeting, Boston College, MA, March 28 - 29, 2026.
-8. <code style="color: blue"> (invited) </code> <b> Quandle rings and open problems for undergraduate students </b>, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, March 3, 2026.
-9. <code style="color: blue"> (invited) </code> <b> Permutation polynomials and reversed Dickson polynomials </b>, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, October 14, 2025
-10. <b> Idempotents in quandle rings </b>, Special Session on Nonassociative Algebraic Structures, AMS Sectional Meeting, University of Denver, Denver, CO, August 23 - 24, 2025. 
-11. <code style="color: blue"> (invited) </code> <b> Reversed Dickson polynomials over finite fields </b>, Special Session on Number theory at Primarily Undergraduate Institutions, AMS Sectional Meeting, California Polytechnic, San Luis Obispo, CA, May 3 - 4, 2025.
-12. <b> Permutation polynomials and reversed Dickson polynomials </b>, Rose-Hulman Institute of Technology, Terre Haute, IN, April 25, 2025. 
-13. <b> Idempotents and tripotents in quandle rings </b>, Knots in Washington, George Washington University, December 6 - 8, 2024.
-14. <code style="color: blue"> (invited) </code> <b> Idempotents and tripotents in Quandle Rings </b>, Scientific Session on Finite Fields and Their Applications, Canadian Mathematical Society Winter Meeting 2024, Vancouver, Canada, November 29 - December 2, 2024.
-15. <b> Idempotents in quandle rings </b>, Special Session on Invariants of Knots, Links, and Low-dimensional Manifolds, AMS Sectional Meeting, University of Albany, Albany, New York, NY, October 19 - 20, 2024.
-16. <b> Quandles, racks and shelves </b>, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 22, 2023.
-17. <b> Reversed Dickson polynomials of the (k+1)-th kind over fintie fields </b>, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 20, 2023. 
-18. <b> Reversed Dickson polynomials of the (k+1)-th kind over fintie fields </b>, Scientific Session on Finite Fields and Their Applications, Canadian Mathematical Society Summer Meeting 2023, Ottawa, Canada, June 4, 2023. 
-19. <b> Classification of connected shelves and their applications to positive knots </b>, Claremont Topology Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 7, 2023. 
-20. <code style="color: blue"> (invited) </code> <b> Knots, quandles and shelves </b>, Discrete Mathematics Seminar, Worcester Polytechnic University, Worcester, MA, February 20, 2022. 
-21. <code style="color: blue"> (invited) </code> <b> Quandles, racks and shelves and their applications to positive knots </b>, Purdue University, West Lafayette, IN, February 7, 2023. 
-22. <b> Quandles, racks and shelves </b>, School of Mathematics and Statistics, Carleton University, Ottawa, Canada, October 14, 2022.
-23. <code style="color: blue">(invited)</code> <b> Self-reciprocal polynomials and reversed Dickson polynomials </b>, Mathematics Colloquium, University of South Florida, Tampa, FL, March 11, 2022.
-24. <b> Self-reciprocal polynomials arising from reversed Dickson polynomials </b>, College of the Holy Cross, Worcester, MA, February 9, 2022. 
-25. <b> Permutation polynomials over finite fields </b>, College of the Holy Cross, Worcester, MA, November 3, 2021. 
-26. <b> Sel-reciprocal polynomials and reversed Dickson polynomials </b>, Rose-Hulman Institute of Technology, Terre Haute, IN, May 6, 2021. 
-27. <b> Self-reciprocal polynomials and Zumkeller numbers </b>, Amherst College, Amherst, MA, March 4, 2019. 
-28. <b> Fibonacci permutation polynomials </b>, Math Club, California State University, Northridge, CA, March, March 9, 2018.
-29. <b> Reversed Dickson permutation polynomials </b>, Algebra, Number Theory, and Discrete Mathematics Seminar, California State University, Northridge, CA, March 7, 2018. 
-30. <b> Reversed Dickson permutation polynomials over finite fields </b>, Algebra, Number Theory, and Combinatorics Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 6, 2018.
-31. <b> Self-reciprocal polynomials arising from reversed Dickson polynomials </b>, Special Session on Polynomials in Enumerative, Algebraic, and Geometric Combinatorics, AMS Sectional Meeting, State University of New York at Buffalo, Buffalo, NY, September 16 - 17, 2017. 
-32. <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II </b>, Special Session on Numbers, Functions, Transcendence, and Geometry, AMS Sectional Meeting, University of North Texas, Denton, TX, September 9 - 10, 2017.  
-33. <code style="color: blue">(invited)</code> <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields </b>, Special Session on Finite Fields and their Applications, AMS Sectional Meeting, Hunter College, CUNY, New York, NY, May 6 - 7, 2017. 
-34. <b> A generalization of the reversed Dickson polynomials over finite fields </b>, Discrete Mathematics Seminar, University of South Florida, March 6, 2017. 
-35. <code style="color: blue">(invited)</code> <b> Permutation polynomials, self-reciprocal polynomials, and their role in coding theory </b>, Northeastern University, December 1, 2016. (Chalkboard presentation)
-36. <code style="color: blue">(invited)</code> <b> Reversed Dickson polynomials of the third kind </b>, 47th Southeastern International Conference on Combinatorics, Graph Theory & Computing, March 7-11, 2016. 
-37. <code style="color: blue">(invited)</code> <b> From r-linearized polynomial equations to r<sup>m</sup>-linearized polynomial equations </b>, Fq12: The 12th International Conference on Finite Fields and Their Applications, Saratoga Springs, NY, July 13-17, 2015. 
-38. <b> New classes of permutation polynomials over finite fields defined by functional equations </b>, Joint Mathematics Meeting , San Diego, Jan 9 - 12, 2013. 
-39. <b> A New Approach to Permutation Polynomials over Finite Fields </b>, Discrete Mathematics Seminar, University of South Florida, November 19, 2012.
-40. <code style="color: blue">(invited)</code> <b> Permutation Polynomials over Finite Fields defined by functional equations </b>, AMS Sectional Meeting, University of South Florida , March 10-11, 2012. 
-41. <b> A Matrix form of the Jacobi-Trudi Identity </b>, Discrete Mathematics Seminar, University of South Florida, February 8, 2010.
+1. <b> Permutation polynomials over finite fields, thier applications, and undergraduate research projects </b>, Faculty Seminar, Knox College, Fall 2026. (date to be determined)
+2. <b> Quandles, quandle rings, and undergraduate research projects </b>, Faculty Seminar, Knox College, Fall 2026. (date to be determined)
+3. <b> Permutation polynomials, local permutation polynomials, and polynomial g_{n,q}</b>, 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. (abstract to be submitted)
+4. <b> Quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. 
+5. <b> Connected shelves </b>, Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026.
+6. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
+7. <b> Reversed Dickson polynomnials over fintie fields </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
+8. <b> Quandle rings and their applications in coding theory </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
+9. <b> Permutation polynomials and local permutation polynomials over finite fields defined by functional equations </b>, Special Session on Finite Fields and Their Applications, AMS Sectional Meeting, Boston College, MA, March 28 - 29, 2026.
+10. <code style="color: blue"> (invited) </code> <b> Quandle rings and open problems for undergraduate students </b>, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, March 3, 2026.
+11. <code style="color: blue"> (invited) </code> <b> Permutation polynomials and reversed Dickson polynomials </b>, Mathematics Seminar, Department of Mathematics, State University of New York at Oswego, October 14, 2025
+12. <b> Idempotents in quandle rings </b>, Special Session on Nonassociative Algebraic Structures, AMS Sectional Meeting, University of Denver, Denver, CO, August 23 - 24, 2025. 
+13. <code style="color: blue"> (invited) </code> <b> Reversed Dickson polynomials over finite fields </b>, Special Session on Number theory at Primarily Undergraduate Institutions, AMS Sectional Meeting, California Polytechnic, San Luis Obispo, CA, May 3 - 4, 2025.
+14. <b> Permutation polynomials and reversed Dickson polynomials </b>, Rose-Hulman Institute of Technology, Terre Haute, IN, April 25, 2025. 
+15. <b> Idempotents and tripotents in quandle rings </b>, Knots in Washington, George Washington University, December 6 - 8, 2024.
+16. <code style="color: blue"> (invited) </code> <b> Idempotents and tripotents in Quandle Rings </b>, Scientific Session on Finite Fields and Their Applications, Canadian Mathematical Society Winter Meeting 2024, Vancouver, Canada, November 29 - December 2, 2024.
+17. <b> Idempotents in quandle rings </b>, Special Session on Invariants of Knots, Links, and Low-dimensional Manifolds, AMS Sectional Meeting, University of Albany, Albany, New York, NY, October 19 - 20, 2024.
+18. <b> Quandles, racks and shelves </b>, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 22, 2023.
+19. <b> Reversed Dickson polynomials of the (k+1)-th kind over fintie fields </b>, Clavius Group Meeting, College of the Holy Cross, Worcester, MA, June 20, 2023. 
+20. <b> Reversed Dickson polynomials of the (k+1)-th kind over fintie fields </b>, Scientific Session on Finite Fields and Their Applications, Canadian Mathematical Society Summer Meeting 2023, Ottawa, Canada, June 4, 2023. 
+21. <b> Classification of connected shelves and their applications to positive knots </b>, Claremont Topology Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 7, 2023. 
+22. <code style="color: blue"> (invited) </code> <b> Knots, quandles and shelves </b>, Discrete Mathematics Seminar, Worcester Polytechnic University, Worcester, MA, February 20, 2022. 
+23. <code style="color: blue"> (invited) </code> <b> Quandles, racks and shelves and their applications to positive knots </b>, Purdue University, West Lafayette, IN, February 7, 2023. 
+24. <b> Quandles, racks and shelves </b>, School of Mathematics and Statistics, Carleton University, Ottawa, Canada, October 14, 2022.
+25. <code style="color: blue">(invited)</code> <b> Self-reciprocal polynomials and reversed Dickson polynomials </b>, Mathematics Colloquium, University of South Florida, Tampa, FL, March 11, 2022.
+26. <b> Self-reciprocal polynomials arising from reversed Dickson polynomials </b>, College of the Holy Cross, Worcester, MA, February 9, 2022. 
+27. <b> Permutation polynomials over finite fields </b>, College of the Holy Cross, Worcester, MA, November 3, 2021. 
+28. <b> Sel-reciprocal polynomials and reversed Dickson polynomials </b>, Rose-Hulman Institute of Technology, Terre Haute, IN, May 6, 2021. 
+29. <b> Self-reciprocal polynomials and Zumkeller numbers </b>, Amherst College, Amherst, MA, March 4, 2019. 
+30. <b> Fibonacci permutation polynomials </b>, Math Club, California State University, Northridge, CA, March, March 9, 2018.
+31. <b> Reversed Dickson permutation polynomials </b>, Algebra, Number Theory, and Discrete Mathematics Seminar, California State University, Northridge, CA, March 7, 2018. 
+32. <b> Reversed Dickson permutation polynomials over finite fields </b>, Algebra, Number Theory, and Combinatorics Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 6, 2018.
+33. <b> Self-reciprocal polynomials arising from reversed Dickson polynomials </b>, Special Session on Polynomials in Enumerative, Algebraic, and Geometric Combinatorics, AMS Sectional Meeting, State University of New York at Buffalo, Buffalo, NY, September 16 - 17, 2017. 
+34. <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II </b>, Special Session on Numbers, Functions, Transcendence, and Geometry, AMS Sectional Meeting, University of North Texas, Denton, TX, September 9 - 10, 2017.  
+35. <code style="color: blue">(invited)</code> <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields </b>, Special Session on Finite Fields and their Applications, AMS Sectional Meeting, Hunter College, CUNY, New York, NY, May 6 - 7, 2017. 
+36. <b> A generalization of the reversed Dickson polynomials over finite fields </b>, Discrete Mathematics Seminar, University of South Florida, March 6, 2017. 
+37. <code style="color: blue">(invited)</code> <b> Permutation polynomials, self-reciprocal polynomials, and their role in coding theory </b>, Northeastern University, December 1, 2016. (Chalkboard presentation)
+38. <code style="color: blue">(invited)</code> <b> Reversed Dickson polynomials of the third kind </b>, 47th Southeastern International Conference on Combinatorics, Graph Theory & Computing, March 7-11, 2016. 
+39. <code style="color: blue">(invited)</code> <b> From r-linearized polynomial equations to r<sup>m</sup>-linearized polynomial equations </b>, Fq12: The 12th International Conference on Finite Fields and Their Applications, Saratoga Springs, NY, July 13-17, 2015. 
+40. <b> New classes of permutation polynomials over finite fields defined by functional equations </b>, Joint Mathematics Meeting , San Diego, Jan 9 - 12, 2013. 
+41. <b> A New Approach to Permutation Polynomials over Finite Fields </b>, Discrete Mathematics Seminar, University of South Florida, November 19, 2012.
+42. <code style="color: blue">(invited)</code> <b> Permutation Polynomials over Finite Fields defined by functional equations </b>, AMS Sectional Meeting, University of South Florida , March 10-11, 2012. 
+43. <b> A Matrix form of the Jacobi-Trudi Identity </b>, Discrete Mathematics Seminar, University of South Florida, February 8, 2010.
 
 ## Conference Organization
 
