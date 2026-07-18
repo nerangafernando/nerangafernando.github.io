@@ -138,7 +138,9 @@ The asterisk denotes an undergraduate student.
 
 * Organizer of the special session on finite fields and their applications at AMS Sectional Meeting at Boston College, March 28 - 29, 2026.  https://www.ams.org/meetings/sectional/2331_program_ss12.html#title
 
-  I gratefully acknowledge financial support to the session on finite fields and their applications from the Journal of Number Theory (Elsevier). 
+  I gratefully acknowledge financial support to the session on finite fields and their applications from the Journal of Number Theory (Elsevier).
+
+* Co-organizer of the special session on quandles and quandle rings at Spring Western Virtual AMS Sectional Meeting, April 3 - 4, 2027. 
 
 ## Research Visits 
 
@@ -151,13 +153,13 @@ The asterisk denotes an undergraduate student.
 
 ## Upcoming Conferences and Workshops 
 
-* New York Number Theory Seminar, Combinatorial and Additive Number Theory (CANT 2026), July 13 - July 17, 2026. 
-
 * Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026.
 
 * Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
 
 * Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
+
+* Spring Western Virtual AMS Sectional Meeting, April 3 - 4, 2027. 
 
 * 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. 
 
