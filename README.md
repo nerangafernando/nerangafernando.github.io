@@ -92,10 +92,10 @@ The asterisk denotes an undergraduate student.
 
 ## Talks
 
-1. <code style="color: blue"> (invited) </code> <b> Zero divisor graphs of quandle rings </b>, Special Session on Algebraic Methods in Graph Theory and Applications, Joint Mathematics Meetings, Chicago, January 12 - 15, 2027.  
-2. <b> Permutation polynomials over finite fields, their applications, and undergraduate research projects </b>, Faculty Seminar, Knox College, Fall 2026. (date to be determined)
-3. <b> Quandles, quandle rings, and undergraduate research projects </b>, Faculty Seminar, Knox College, Fall 2026. (date to be determined)
-4. <b> Permutation polynomials, local permutation polynomials, and polynomial g_{n,q}</b>, 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. (abstract to be submitted)
+1. <b> Permutation polynomials, local permutation polynomials, and polynomial g_{n,q}</b>, 17th International Conference on Finite Fields and their Applications Fq17, June 14 - 18, 2027, University College Dublin, Ireland. (abstract to be submitted)
+2. <code style="color: blue"> (invited) </code> <b> Permutation polynomials over finite fields, their applications, and undergraduate research projects </b>, Faculty Seminar, Knox College, Fall 2026. (date to be determined)
+3. <code style="color: blue"> (invited) </code> <b> Quandles, quandle rings, and undergraduate research projects </b>, Faculty Seminar, Knox College, Fall 2026. (date to be determined)
+4. <code style="color: blue"> (invited) </code> <b> Zero divisor graphs of quandle rings </b>, Special Session on Algebraic Methods in Graph Theory and Applications, Joint Mathematics Meetings, Chicago, January 12 - 15, 2027. 
 5. <code style="color: blue"> (invited) </code> <b> Quandle rings and their applications in coding theory </b>, Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026. 
 6. <b> Connected shelves </b>, Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026.
 7. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
@@ -121,7 +121,7 @@ The asterisk denotes an undergraduate student.
 27. <b> Self-reciprocal polynomials arising from reversed Dickson polynomials </b>, College of the Holy Cross, Worcester, MA, February 9, 2022. 
 28. <b> Permutation polynomials over finite fields </b>, College of the Holy Cross, Worcester, MA, November 3, 2021. 
 29. <b> Sel-reciprocal polynomials and reversed Dickson polynomials </b>, Rose-Hulman Institute of Technology, Terre Haute, IN, May 6, 2021. 
-30. <b> Self-reciprocal polynomials and Zumkeller numbers </b>, Amherst College, Amherst, MA, March 4, 2019. 
+30. . <b> Self-reciprocal polynomials and Zumkeller numbers </b>, Amherst College, Amherst, MA, March 4, 2019. 
 31. <b> Fibonacci permutation polynomials </b>, Math Club, California State University, Northridge, CA, March, March 9, 2018.
 32. <b> Reversed Dickson permutation polynomials </b>, Algebra, Number Theory, and Discrete Mathematics Seminar, California State University, Northridge, CA, March 7, 2018. 
 33. <b> Reversed Dickson permutation polynomials over finite fields </b>, Algebra, Number Theory, and Combinatorics Seminar, Claremont Center for the Mathematical Sciences, Claremont, CA, March 6, 2018.
