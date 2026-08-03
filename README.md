@@ -147,14 +147,14 @@ The asterisk denotes an undergraduate student.
 
 ## Research Visits and Workshops 
 
+* Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026.
+
 * A research visit to California State University, Northridge, August 10 - 16, 2025. Host: Daniel J. Katz
 
 <figure>
   <img src="images/Daniel.jpeg" width="200" alt="Description for screen readers">
-  <figcaption>With Daniel in Malibu \ </figcaption>
+  <figcaption>With Daniel in Malibu </figcaption>
 </figure> 
-
-* Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026.
 
 ## Upcoming Conferences and Workshops 
 
