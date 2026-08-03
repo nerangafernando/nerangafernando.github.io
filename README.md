@@ -154,6 +154,7 @@ The asterisk denotes an undergraduate student.
   <figcaption>With Daniel in Malibu</figcaption>
 </figure> 
 
+
 * Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026.
 
 ## Upcoming Conferences and Workshops 
@@ -161,6 +162,8 @@ The asterisk denotes an undergraduate student.
 * Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
 
 * Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
+
+* Special Session on Algebraic Methods in Graph Theory and Applications, Joint Mathematics Meetings, Chicago, January 12 - 15, 2027. 
 
 * Spring Western Virtual AMS Sectional Meeting, April 3 - 4, 2027. 
 
