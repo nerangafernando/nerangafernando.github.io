@@ -145,7 +145,7 @@ The asterisk denotes an undergraduate student.
 
 * Co-organizer of the special session on quandles and quandle rings at Spring Western Virtual AMS Sectional Meeting, April 3 - 4, 2027. 
 
-## Research Visits 
+## Research Visits and Workshops 
 
 * A research visit to California State University, Northridge, August 10 - 16, 2025. Host: Daniel J. Katz
 
@@ -154,9 +154,9 @@ The asterisk denotes an undergraduate student.
   <figcaption>With Daniel in Malibu</figcaption>
 </figure> 
 
-## Upcoming Conferences and Workshops 
-
 * Workshop on Research experiences for undergraduate faculty, Richard N. Merkin Center for Pure and Applied Mathematics, The American Institute of Mathematics, California Institute of Technology, Pasadena, CA, July 27 - 31, 2026.
+
+## Upcoming Conferences and Workshops 
 
 * Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
 
@@ -493,6 +493,8 @@ I was the mathematics advisor for two undergraduate projects in Engineering Calc
 14. Indagationes Mathematicae 
 
 15. Arabian Journal of Mathematics
+
+16. Open Mathematics
 
 ### Zentralblatt MATH -
 
