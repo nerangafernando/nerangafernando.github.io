@@ -90,7 +90,7 @@ Mohammad H. Rashid<sup>&#42;</sup> (Northeastern University, Boston, USA) \
 Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA) 
 			   
 <sup>&#42;</sup> denotes an undergraduate student. \
-<sup>&#42;&#42;</sup> denotes a graduate student
+<sup>&#42;&#42;</sup> denotes a graduate student. 
 
 ## Talks
 
