@@ -74,7 +74,8 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 2. <b> Dembowski-Ostrom polynomials and reversed Dickson polynomials.</b> <a href="https://arxiv.org/abs/1812.11945">arXiv</a>  
    
 ## Coauthors 
-			   
+
+Gregory Churchill (SUNY at Oswego, USA)\			   
 <a href="https://scholar.google.com/citations?user=ocpIWKkAAAAJ&hl=en"> Indu Rasika Churchill </a> (SUNY at Oswego, USA)\
 <a href="https://scholar.google.com/citations?user=EKtdfTwAAAAJ&hl=en"> Mohamed Elhamdadi </a> (USF, Tampa, USA) \
 Jiaqi Fang<sup>&#42;</sup> (College of the Holy Cross, USA)\
