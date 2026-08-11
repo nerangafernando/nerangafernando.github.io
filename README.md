@@ -44,7 +44,7 @@ I was born in Negombo in <a href="https://en.wikipedia.org/wiki/Sri_Lanka"> Sri 
 
 ## Publications
 
-1. (with G. Churchill, I. R. Churchill, B. Kousik) <b> A further study of quandles and quandle rings. </b> <a href="">arXiv</a>
+1. (with G. Churchill, I. R. Churchill, B. Kousik) <b> A further study of quandles and quandle rings. </b> <a href="https://arxiv.org/abs/2608.09149">arXiv</a>
 2. (with B. Kousik) <b> A further study of polynomial g<sub>n,q</sub> over finite fields. </b> <a href="https://arxiv.org/abs/2606.01037">arXiv</a>
 3. <b> Reversed Dickson polynomials of the (k+1)-th kind over finite fields, II.</b> Contributions to Discrete Mathematics, Volume 20, Issue 2, 2025, 1 – 29. 		
 4. (with M. Elhamdadi and M. P. Goonewardena) <b> Classification of connected shelves.</b> New Zealand J. Math. 56 (2025), 53 - 68.
