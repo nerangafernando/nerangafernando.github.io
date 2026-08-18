@@ -103,7 +103,7 @@ Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA)
 6. <b> Connected shelves </b>, Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24-25, 2026.
 7. <b> Answers to Open Questions on Quandles and Quandle Rings, and an Introduction to Zero-Divisor Graphs of Quandle Rings</b>, Special Session on Knots and Braids, AMS Sectional Meeting, George Washington University, Washington D.C., October 2 - 3 (abstract submitted)
 8. <b> Zero-divisor Graphs of Quandle Rings </b>, Midwest Combinatorics and Graph Theory Conference at Miami University, Oxford, Ohio, September 18 - 19. (abstract submitted)
-9. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. 
+9. <b> Contributions to the family of reversed Dickson polynomials </b>, Combinatorial and Additive Number Theory (CANT 2026) Conference, New York Number Theory Seminar, July 13 - July 17, 2026. <a href="https://www.youtube.com/watch?v=H-lUjZxcCnc">Video</a>
 10. <b> Reversed Dickson polynomnials over fintie fields </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
 11. <b> Quandle rings and their applications in coding theory </b>, International Workshop on the Arithmetic of Finite Fields WAIFI 2026, Santander, Spain. June 3 - 5, 2026.
 12. <b> Permutation polynomials and local permutation polynomials over finite fields defined by functional equations </b>, Special Session on Finite Fields and Their Applications, AMS Sectional Meeting, Boston College, MA, March 28 - 29, 2026.
