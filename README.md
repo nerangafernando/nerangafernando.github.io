@@ -542,7 +542,13 @@ I have been a reviewer for Mathematical Reviews since 2017.
  * Professor Appreciation Award, Black Engineering Student Society, Northeastern University, April 11th, 2014.
  
  * Eugene P. Shelly Visiting Assistant Professor Position at Carnegie Mellon University, a position created through a gift of Eugene P. Shelly, 2019.
- 
+
+## Community Outreach
+
+ * CIMPA School in Sri Lanka in 2028 - Currently collaborating with three colleagus based in France, USA and Sri Lanka to organize a CIMPA School at the University of Kelaniya to provide training in contemporary pure and applied mathematics for students, young researchers, and teacher-scholars in Sri Lanka.
+
+ * Supporting/Mentoring students from underrepresented groups - At an AMS sectional meeting at the University of North Texas in September 2017, mentored African-American students from Mcdonogh 35 High School interested in mathematics, providing guidance on university admission, academic careers, and research opportunities; connected students with faculty at Northeastern University, leading to their presentation on Embeddings of H4 Polytopes in the Special Session on Polytopes and Discrete Geometry, VI at an AMS meeting held at Northeastern University in April, 2018.
+
 
 ## Non-academic Interests 
 
