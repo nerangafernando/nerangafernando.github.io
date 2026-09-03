@@ -262,6 +262,9 @@ https://crossworks.holycross.edu/math_honor/64/
 
 ##### Current Position: Graduate student at the University of Pennsylvania
 
+## Academic Advising
+
+I am currently the academic advisor for a student at Knox College who is majoring in mathematics and physics. I have also advised students in academic matters at my previous institutions, although not in an official capacity.
                   
 ## Undergraduate Research Supervision 
       
