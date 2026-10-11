@@ -175,15 +175,16 @@ Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA)
 
 #### Knox College, Galesburg, IL     
                                        
-1. Applied Calculus 1 MATH 145
+1. Calculus 1 MATH 145
 2. Number Theory MATH 217
 3. Linear Algebra MATH 185
-4. Real Analysis MATH 331 (to teach) 
-5. Discrete Mathematics MATH 175 (Spring 2026)
-6. Calculus 3 MATH 205 (Spring 2026)
+4. Real Analysis MATH 331 (Spring 2027) 
+5. Discrete Mathematics MATH 175 
+6. Calculus 3 MATH 205 
 7. Introductory Statistics STAT 200
-8. Topics in Combinatorics - MATH 361 Research in Mathematics (Spring 2026)
-9. Topics in Operations Research - Independent Study (Spring 2026)
+8. Research in Mathematics MATH 361
+9. Topics in Operations Research - Independent Study
+10. Topics in Coding Theory - Independent Study (Winter 2027) 
                    
                     
 #### College of the Holy Cross, Worcester, Massachusetts, USA                                                                             
