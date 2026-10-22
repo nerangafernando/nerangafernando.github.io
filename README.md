@@ -161,10 +161,6 @@ Haoming Wu<sup>&#42;</sup> (College of the Holy Cross, USA)
 
 ## Upcoming Conferences and Workshops 
 
-* Special Session on Coding Theory and Applications, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
-
-* Special Session on Computation in Low-dimensional Topology, AMS Sectional Meeting, University of Minnesota Duluth, MN, October 24 - 25, 2026.
-
 * Special Session on Algebraic Methods in Graph Theory and Applications, Joint Mathematics Meetings, Chicago, January 12 - 15, 2027. 
 
 * Spring Western Virtual AMS Sectional Meeting, April 3 - 4, 2027. 
